@@ -5,7 +5,7 @@ Profile Utility is a Node.JS CLI application that manipulates profiles and permi
 * Node v15.2.0 or greater
 
 ## Installation
-* git clone https://github.com/AtriumAI/profile-permissionset-manipulator.git
+* git clone https://github.com/AtriumAI/profile_utility
 * cd profile_utility
 * npm install
 
