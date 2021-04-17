@@ -1,0 +1,17 @@
+{
+  "name": "profile_utility",
+  "version": "1.0.0",
+  "description": "Profile tool to allow manipulation of profile metadata programmatically.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js "
+  },
+  "author": "Sal Carrera Atrium.AI",
+  "license": "ISC",
+  "dependencies": {
+    "json2csv": "^5.0.6",
+    "minimist": "^1.2.5",
+    "xml-js": "^1.6.11"
+  }
+}
