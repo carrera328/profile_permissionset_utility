@@ -6,4 +6,12 @@ Profile Permissionset Manipulator is a Node.JS CLI application that manipulates 
 
 ## Installation
 * git clone https://github.com/AtriumAI/profile-permissionset-manipulator.git
-* cd 
+* cd profile_utility
+* npm install
+
+## How to use
+
+* cd into the root directory of the application
+* npm run start -- --csv path/to/csv --dir path/to/valid/profiles/folder
+
+The --csv and --dir flags are required, the tool will not work without those arguments
