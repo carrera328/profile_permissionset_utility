@@ -1,9 +1,10 @@
 const fs = require('fs');
-const convert = require('xml-js');
-const parser = require('json2csv');
+const {json2csv} = require('xml-js');
+const {Parser} = require('json2csv');
 const path = require('path');
 const helper = require('./helpers.js');
 const constants = require('./constants.js');
+const csvtojsonV2=require("csvtojson");
 
 // TODO: get profiles from arguments
 const argv = require('minimist')(process.argv.slice(2));
@@ -39,10 +40,23 @@ let profiles = [];
     
     
     //TODO: extract layouts portion of profiles
+    console.log(jsonProfile.Profile.layoutAssignments);
+    const layoutChunk = jsonProfile.Profile.layoutAssignments
 
+    fs.writeFileSync('chunk.json', JSON.stringify(layoutChunk, null, 4));
+
+    let fields = ['layout._text', 'recordType._text'];
+    let json2csv = new Parser({fields}); 
+    const csv = json2csv.parse(layoutChunk);
+    fs.writeFileSync('chunk.csv', csv);
+    console.log(csv);
+    
+
+    jObj = await csvtojsonV2().fromFile('AMER_Analyst_Layout_Assignment_API.csv').then((jsonObj) => jsonObj);
+    console.log(jObj);
     //TODO: manipulate layouts chunk
 
-    //TODO: 
+    //TODO: replace existing chunk with new chunk
 
 
     // const xmlProfile = await helper.convertData('./output.json', 'json');

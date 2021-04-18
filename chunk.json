@@ -1,0 +1,3704 @@
+[
+    {
+        "layout": {
+            "_text": "APACAccounts__mdt-APACAccounts Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Approver_Threshold__c-APAC Approver Threshold Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-ANZ-Customer Satisfaction"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_ANZ_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-ANZ-Customer Satisfaction"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_TW_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-ANZ-Customer Satisfaction"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_TW_Return_Defective_Lens"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-ANZ-Pricing Credit"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_ANZ_Pricing_Credit"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-ANZ-Return"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_ANZ_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-CN-Customer Satisfaction"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_CN_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-CN-Exchange"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_CN_Exchange"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-CN-MarketingMaterial - SR"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_CN_Marketing_Material"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-CN-Rebate Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_CN_Rebate"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-CN-Return"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_CN_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-Case Form Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-Case Form Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_MY_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-Case Form Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_SG_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-HK-Administrative"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_HK_Administrative"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-HK-Customer Satisfaction"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_HK_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-HK-Return"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_HK_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-HK-Return %28Defective Lens%29"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_HK_Return_Defective_Lens"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Customer Modification"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_2_Customer_Modification_SO"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Customer Modification"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Customer_Modification"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Customer Modification-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_2_Customer_Modification_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Customer Registration"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Customer_Registration"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Customer Registration-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_1_Customer_Registration_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Entertainment"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Entertainment"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Entertainment-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_9_Entertainment_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Grouping Form"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Group_Case"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Grouping Form-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_A11_Group_Case_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Payment Request"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Payment_or_Purchase_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Payment Request-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_A10_Payment_Or_Purchase_Request_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Price Registration"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Price_Registration"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Price Registration-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_3_Price_Registration_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Product Distribution"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Product_Distribution"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Product Distribution-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_4_Product_Distribution_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Return"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Return_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Return-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_6_Return_Request_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Sales Promotion"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Sales_Promotion"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Sales Promotion-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_7_Sales_Promotion_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Special Delivery Arrangement"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_8_Special_Delivery_PS"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Special Delivery Arrangement"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Special_Delivery"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Special Delivery Arrangement-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_8_Special_Delivery_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Special Request"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_5_Special_Request_PS"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Special Request"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_5_Special_Request_SO"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Special Request"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_Special_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-JP-Special Request-Approved"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_JP_5_Special_Request_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-KR-Customer Satisfaction"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_KR_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-KR-Return"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_KR_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-MY Administrative"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_MY_Administrative"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-MY-Credit Stop"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_MY_Credit_Stop"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-Price Exception Request"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_Pricing_Exception_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-SG-Administrative"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_SG_Administrative"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-SG-Customer Satisfaction"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_SG_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-TW-Administrative"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_TW_Administrative"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-TW-Customer Satisfaction"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_TW_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Form__c-APAC-TW-Exchange"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Form__c.APAC_TW_Exchange"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_ANZ_Case_Item"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_CN_Case_Item"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_CN_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_HK_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_HK_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_HK_Return_Defective_Lens"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_KR_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_MY_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_SG_Administrative"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_SG_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_TW_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_TW_Exchange"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_TW_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-ANZ-Case Item Layout"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_TW_Return_Defective_Lens"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-CN-ECP"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_CN_ECP"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-CN-Marketing Material - SR"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_CN_Marketing_Material"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-CN-Rebate"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_CN_Rebate"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Case_Item__c-APAC-Price Exception Request Item"
+        },
+        "recordType": {
+            "_text": "APAC_Case_Item__c.APAC_Pricing_Exception_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Events_History__c-APAC Events History Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_JP_Case_Form_Participant__c-APAC - JP - Case Form Participant Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_JP_Case_Form_Product__c-APAC - JP - Case Form Product Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_JP_Case_Form_Product__c-APAC - JP - Case Form Product Layout"
+        },
+        "recordType": {
+            "_text": "APAC_JP_Case_Form_Product__c.Case_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_JP_Case_Form_Product__c-APAC - JP - Group Case Form Product Layout"
+        },
+        "recordType": {
+            "_text": "APAC_JP_Case_Form_Product__c.Group_Case_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_JP_Case_Route_Selection__c-APAC JP Case Route Selection Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Revenue_Summary__c-APAC Revenue Summary Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Revenue_Summary__c-CN Revenue Summary"
+        },
+        "recordType": {
+            "_text": "APAC_Revenue_Summary__c.CN_Revenue_Summary"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Revenue_Summary__c-HK Revenue Summary"
+        },
+        "recordType": {
+            "_text": "APAC_Revenue_Summary__c.HK_Revenue_Summary"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Revenue_Summary__c-JP Revenue Summary"
+        },
+        "recordType": {
+            "_text": "APAC_Revenue_Summary__c.JP_Revenue_Summary"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Revenue_Summary__c-KR Revenue Summary"
+        },
+        "recordType": {
+            "_text": "APAC_Revenue_Summary__c.KR_Revenue_Summary"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Revenue_Summary__c-MY Revenue Summary"
+        },
+        "recordType": {
+            "_text": "APAC_Revenue_Summary__c.MY_Revenue_Summary"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Revenue_Summary__c-SG Revenue Summary"
+        },
+        "recordType": {
+            "_text": "APAC_Revenue_Summary__c.SG_Revenue_Summary"
+        }
+    },
+    {
+        "layout": {
+            "_text": "APAC_Revenue_Summary__c-TW Revenue Summary"
+        },
+        "recordType": {
+            "_text": "APAC_Revenue_Summary__c.TW_Revenue_Summary"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-ACE India Account Page Layout"
+        },
+        "recordType": {
+            "_text": "Account.INDIA_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-ACE Russia Account Page Layout"
+        },
+        "recordType": {
+            "_text": "Account.RUSSIA_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-ACE S Africa Account Page Layout"
+        },
+        "recordType": {
+            "_text": "Account.S_Africa_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-AMER Buying Account Layout"
+        },
+        "recordType": {
+            "_text": "Account.AMER_Buyer_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-AMER LA Brazil Account Layout"
+        },
+        "recordType": {
+            "_text": "Account.AMER_LA_Brazil_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-AMER LA Chile Account Layout"
+        },
+        "recordType": {
+            "_text": "Account.AMER_LA_Chile_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-AMER LA Colombia Account Layout"
+        },
+        "recordType": {
+            "_text": "Account.AMER_LA_Colombia_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-AMER LA Mexico Account Layout"
+        },
+        "recordType": {
+            "_text": "Account.AMER_LA_Mexico_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-AMER Location Account Layout"
+        },
+        "recordType": {
+            "_text": "Account.AMER_Archive_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-AMER Location Account Layout"
+        },
+        "recordType": {
+            "_text": "Account.AMER_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-AD-Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_AD_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-CN-Main Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_CN_Main_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-CN-New Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_CN_Account_New"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-CN-OEM Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_CN_OEM_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-HK-Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_HK_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-JP-Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_JP_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-KR-Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_KR_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-MY-Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_MY_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-SG-Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_SG_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-APAC-TW-Account"
+        },
+        "recordType": {
+            "_text": "Account.APAC_TW_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Buying Account Layout - ANZ"
+        },
+        "recordType": {
+            "_text": "Account.ANZ_Buying_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Buying Account Layout - Benelux"
+        },
+        "recordType": {
+            "_text": "Account.BENELUX_Buying_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Buying Account Layout - CEE"
+        },
+        "recordType": {
+            "_text": "Account.CEE_Buying_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Buying Account Layout - DACH"
+        },
+        "recordType": {
+            "_text": "Account.DACH_Buying_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Buying Account Layout - France"
+        },
+        "recordType": {
+            "_text": "Account.FRANCE_Buying_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Buying Account Layout - Iberia"
+        },
+        "recordType": {
+            "_text": "Account.Iberia_Buying_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Buying Account Layout - Italy"
+        },
+        "recordType": {
+            "_text": "Account.Italy_Buying_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Buying Account Layout - Nordic"
+        },
+        "recordType": {
+            "_text": "Account.Nordic_Buying_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Buying Account Layout - UK"
+        },
+        "recordType": {
+            "_text": "Account.UK_Buying_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-GLOBAL Key Account"
+        },
+        "recordType": {
+            "_text": "Account.GLOBAL_Key_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Layout - ANZ"
+        },
+        "recordType": {
+            "_text": "Account.ANZ_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Layout - Benelux"
+        },
+        "recordType": {
+            "_text": "Account.BENELUX_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Layout - CEE"
+        },
+        "recordType": {
+            "_text": "Account.CEE_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Layout - DACH"
+        },
+        "recordType": {
+            "_text": "Account.DACH_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Layout - France"
+        },
+        "recordType": {
+            "_text": "Account.FRANCE_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Layout - Iberia"
+        },
+        "recordType": {
+            "_text": "Account.Iberia_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Layout - Italy"
+        },
+        "recordType": {
+            "_text": "Account.Italy_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Layout - Nordic"
+        },
+        "recordType": {
+            "_text": "Account.Nordic_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Layout - UK"
+        },
+        "recordType": {
+            "_text": "Account.UK_Location_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-Location Account Master"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-MARKET Key Account"
+        },
+        "recordType": {
+            "_text": "Account.MARKET_Key_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-NOT Key Account"
+        },
+        "recordType": {
+            "_text": "Account.Not_Key_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account-REGIONAL Key Account"
+        },
+        "recordType": {
+            "_text": "Account.REGIONAL_Key_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "AccountTeamMember-Account Team Member Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-ACE-SA-Account Background Layout"
+        },
+        "recordType": {
+            "_text": "Account_Background_Information__c.SA_Account_Background_Info"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-ANZ-Account Background Layout"
+        },
+        "recordType": {
+            "_text": "Account_Background_Information__c.ANZ_Account_Background_Info"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-Account Background Information Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-CN-Account Background Layout"
+        },
+        "recordType": {
+            "_text": "Account_Background_Information__c.CN_Account_Background_Info"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-HK-Account Background Layout"
+        },
+        "recordType": {
+            "_text": "Account_Background_Information__c.HK_Account_Background_Info"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-JP-Account Background Layout"
+        },
+        "recordType": {
+            "_text": "Account_Background_Information__c.JP_Account_Background_Info"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-KR-Account Background Layout"
+        },
+        "recordType": {
+            "_text": "Account_Background_Information__c.KR_Account_Background_Info"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-MY-Account Background Layout"
+        },
+        "recordType": {
+            "_text": "Account_Background_Information__c.MY_Account_Background_Info"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-SG-Account Background Layout"
+        },
+        "recordType": {
+            "_text": "Account_Background_Information__c.SG_Account_Background_Info"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Background_Information__c-TW-Account Background Layout"
+        },
+        "recordType": {
+            "_text": "Account_Background_Information__c.TW_Account_Background_Info"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Call_History__c-Accoun Call History Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Criteria_Field_Mapping__mdt-Account Criteria Field Mapping Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Plan__c-KAM Account Plan Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Revenue__c-Account Revenue Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Segmentation__c-APAC-MY Segmentation Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Account_Segmentation__c-APAC-MY Segmentation Layout"
+        },
+        "recordType": {
+            "_text": "Account_Segmentation__c.APAC_MY_Segmentation"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Activate_Trigger__mdt-Activate Trigger Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Agreement_Region_Operating_Unit_Detail__c-Agreement Market and Sub Region Detail Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Answer__c-Answer Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Asset-Asset Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "AuthorizationForm-Authorization Form Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "AuthorizationFormConsent-Authorization Form Consent Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "AuthorizationFormDataUse-Layout Utilizzo dei dati modulo di autorizzazione"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Bank__c-Bank Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Call_Planner_Associated_Promotion__c-Call Planner Associated Promotion Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Campaign-AMER CA MiSight Campaign Layout"
+        },
+        "recordType": {
+            "_text": "Campaign.AMER_CA_MiSight_Campaign_Record_Type"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Campaign-Campaign Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Campaign-Campaign Layout"
+        },
+        "recordType": {
+            "_text": "Campaign.AMER_Campaign"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Campaign-Campaign Layout"
+        },
+        "recordType": {
+            "_text": "Campaign.AMER_US_MiSight_Campaign_Record_Type"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Campaign-Campaign Layout"
+        },
+        "recordType": {
+            "_text": "Campaign.EMEA_Campaign"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CampaignMember-AMER CA MiSight CM Page Layout"
+        },
+        "recordType": {
+            "_text": "CampaignMember.AMER_CA_MiSight_CM_Record_Type"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CampaignMember-Campaign Member Page Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CampaignMember-Campaign Member Page Layout"
+        },
+        "recordType": {
+            "_text": "CampaignMember.AMER_US_MiSight_CM_Record_Type"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-AMER Rebate Administration"
+        },
+        "recordType": {
+            "_text": "Case.AMER_Rebate_Administration"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-AMER US MiSight Administrative Case"
+        },
+        "recordType": {
+            "_text": "Case.AMER_US_MiSight_Administrative_Case"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.AMER_Account_Transfer"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.AMER_Fit_Set_Transfer"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.APAC_Administrative"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.APAC_Credit_Stop"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.APAC_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.APAC_Exception_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.APAC_Exchange"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.APAC_Marketing_Material"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.APAC_Rebate"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.APAC_Return"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.Customer_Services"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EMEA Account Administration FB"
+        },
+        "recordType": {
+            "_text": "Case.EMEA_Account_Administration"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EMEA Customer Satisfaction FB"
+        },
+        "recordType": {
+            "_text": "Case.EMEA_Customer_Satisfaction"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EMEA New Account Request FB"
+        },
+        "recordType": {
+            "_text": "Case.EMEA_New_Account_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EMEA Orders FB"
+        },
+        "recordType": {
+            "_text": "Case.EMEA_Orders"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EMEA Pricing Request Layout"
+        },
+        "recordType": {
+            "_text": "Case.EMEA_Pricing_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EMEA Pricing Request Layout"
+        },
+        "recordType": {
+            "_text": "Case.Global_Special_Pricing_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EMEA Returns %26 Adjustments FB"
+        },
+        "recordType": {
+            "_text": "Case.EMEA_Returns_Adjustments"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EMEA Territory Change Request FB"
+        },
+        "recordType": {
+            "_text": "Case.EMEA_Territory_Change_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EU Account Maintenance Request FB"
+        },
+        "recordType": {
+            "_text": "Case.EU_Account_Maintenance_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EU Customer Care FB"
+        },
+        "recordType": {
+            "_text": "Case.EU_Customer_Care"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EU New Account Request FB"
+        },
+        "recordType": {
+            "_text": "Case.EU_New_Account_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EU Orders FB"
+        },
+        "recordType": {
+            "_text": "Case.EU_Orders"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EU Pricing Request FB"
+        },
+        "recordType": {
+            "_text": "Case.EU_Pricing_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EU Returns %26 Credits FB"
+        },
+        "recordType": {
+            "_text": "Case.EU_Returns_Credits"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EU Segmentation Change Request"
+        },
+        "recordType": {
+            "_text": "Case.EU_Segmentation_Change_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-EU Territory Change Request"
+        },
+        "recordType": {
+            "_text": "Case.EU_Territory_Change_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Global Billing Adjustment"
+        },
+        "recordType": {
+            "_text": "Case.Global_Billing_Adjustment"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Global Case Order Entry"
+        },
+        "recordType": {
+            "_text": "Case.Global_Order_Entry"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case-Global Sales Concession"
+        },
+        "recordType": {
+            "_text": "Case.Global_Sales_Concession"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.Customer_Services"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.EU_Account_Maintenance_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.EU_Customer_Care"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.EU_New_Account_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.EU_Orders"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.EU_Pricing_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.EU_Returns_Credits"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.EU_Segmentation_Change_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CaseClose-Close Case Layout"
+        },
+        "recordType": {
+            "_text": "Case.EU_Territory_Change_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Form_Line_Item__c-Case Form Line Item Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Form_Line_Item__c-Case Form Line Item Layout"
+        },
+        "recordType": {
+            "_text": "Case_Form_Line_Item__c.Global_Billing_Adjustment"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Form_Line_Item__c-Case Form Line Item Layout"
+        },
+        "recordType": {
+            "_text": "Case_Form_Line_Item__c.Global_Order_Entry"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Form_Line_Item__c-Case Form Line Item Layout"
+        },
+        "recordType": {
+            "_text": "Case_Form_Line_Item__c.Global_Sales_Concession"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Form_Line_Item__c-Case Form Line Item Layout"
+        },
+        "recordType": {
+            "_text": "Case_Form_Line_Item__c.Global_Special_Pricing_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Forms__c-Case Form Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Forms__c-Case Form Layout"
+        },
+        "recordType": {
+            "_text": "Case_Forms__c.Global_Order_Entry"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Forms__c-EMEA Special Pricing Request"
+        },
+        "recordType": {
+            "_text": "Case_Forms__c.Global_Special_Pricing_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Forms__c-Global Billing Adjustment"
+        },
+        "recordType": {
+            "_text": "Case_Forms__c.Global_Billing_Adjustment"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Case_Forms__c-Global Sales Concession"
+        },
+        "recordType": {
+            "_text": "Case_Forms__c.Global_Sales_Concession"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Card__c-APAC - Selling Skills Page Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Card__c.APAC_Selling_Skills"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Card__c-APAC Coaching Card Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Card__c-APAC Coaching Card Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Card__c.APAC_ANZ_Coach"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Card__c-APAC Coaching Card Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Card__c.APAC_Std_Coaching"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC Coaching Plan Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC Coaching Plan Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Plan__c.APAC_Std_CoachingPlan"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC JP Selling Skills Page Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Plan__c.APAC_JP_Selling_Skills"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC-ANZ Selling Skills Page Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Plan__c.APAC_ANZ_Selling_Skills"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC-CN Selling Skills Page Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Plan__c.APAC_CN_Selling_Skills"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC-HK Selling Skills Page Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Plan__c.APAC_HK_Selling_Skills"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC-KR Selling Skills Page Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Plan__c.APAC_KR_Selling_Skills"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC-MY Selling Skills Page Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Plan__c.APAC_MY_Selling_Skills"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC-SG Selling Skills Page Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Plan__c.APAC_Selling_Skills_Except_JP"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching_Plan__c-APAC-TW Selling Skills Page Layout"
+        },
+        "recordType": {
+            "_text": "Coaching_Plan__c.APAC_TW_Selling_Skills"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Coaching__c-APAC-ANZ-Coaching"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Cognos_Report__c-Cognos Report Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CollaborationGroup-グループレイアウト"
+        }
+    },
+    {
+        "layout": {
+            "_text": "CommunityMemberLayout-Community Member Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Competitor_Analysis__c-Competitor Analysis Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-ACE Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.ACE_Contact"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-ACE-STD-Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.ACE_STD_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-AMER Contact"
+        },
+        "recordType": {
+            "_text": "Contact.AMER_Contact"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-AMER LA Brazil Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.AMER_LA_Brazil_Contact"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-AMER LA Chile Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.AMER_LA_Chile_Contact"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-AMER LA Colombia Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.AMER_LA_Colombia_Contact"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-AMER LA Mexico Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.AMER_LA_Mexico_Contact"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-AMER Medical Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.AMER_Obsolete_Contact"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-APAC-AD-Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.APAC_AD_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-APAC-ANZ- Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.APAC_ANZ_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-APAC-CN-Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.APAC_CN_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-APAC-HK-Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.APAC_HK_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-APAC-JP-Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.APAC_JP_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-APAC-KR-Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.APAC_KR_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-APAC-MY-Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.APAC_MY_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-APAC-SG-Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.APAC_SG_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-APAC-TW-Contacts"
+        },
+        "recordType": {
+            "_text": "Contact.APAC_TW_Contacts"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-Contact Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.AMER_Medical"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.AMER_Non_Medical"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.Contact_Record_Type"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact-KAM Contact Layout"
+        },
+        "recordType": {
+            "_text": "Contact.KAM_Contact"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ContactPointAddress-Contact Point Address Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ContactPointEmail-Contact Point Email Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ContactPointPhone-Contact Point Phone Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ContactPointTypeConsent-Contact Point Type Consent Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact_Relationship__c-Contact Relationship Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact_Relationship__c-Contact Relationship Layout"
+        },
+        "recordType": {
+            "_text": "Contact_Relationship__c.Active"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contact_Relationship__c-Contact Relationship Layout"
+        },
+        "recordType": {
+            "_text": "Contact_Relationship__c.Inactive"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ContentVersion-AMER Content"
+        },
+        "recordType": {
+            "_text": "ContentVersion.AMER_Content"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ContentVersion-ANZ Content"
+        },
+        "recordType": {
+            "_text": "ContentVersion.ANZ_Content"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ContentVersion-EU Content Layout"
+        },
+        "recordType": {
+            "_text": "ContentVersion.EU_Content"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ContentVersion-General"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ContentVersion-Japan Content"
+        },
+        "recordType": {
+            "_text": "ContentVersion.Japan_Content"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contract-APAC-CN-Addendum Layout"
+        },
+        "recordType": {
+            "_text": "Contract.APAC_CN_Addendum"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contract-APAC-CN-Contract Layout"
+        },
+        "recordType": {
+            "_text": "Contract.APAC_CN_Contract"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contract-APAC-CN-Contract Layout"
+        },
+        "recordType": {
+            "_text": "Contract.APAC_Test"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contract-APAC-CN-Contract-Active Layout"
+        },
+        "recordType": {
+            "_text": "Contract.APAC_CN_Contract_Active"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contract-Contract Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Contract-Contract Layout"
+        },
+        "recordType": {
+            "_text": "Contract.APAC_TW_Contract"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Credit_Task__c-Credit Task Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Credit_Task__c-EMEA Credit Task Layout"
+        },
+        "recordType": {
+            "_text": "Credit_Task__c.EMEA_Credit_Task"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Customer_Need_Hierarchy__c-Customer Need Hierarchy Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Customer_Services_Alert__c-Customer Services Alert Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Data_Extract__c-Data Extract Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Deleted_Account__c-Deleted Account Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Distribution_Intelligence__c-APAC-KR Distribution Intelligence Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Distribution_Intelligence__c-APAC-KR Distribution Intelligence Layout"
+        },
+        "recordType": {
+            "_text": "Distribution_Intelligence__c.APAC_KR_Distribution_Intelligence"
+        }
+    },
+    {
+        "layout": {
+            "_text": "DuplicateRecordItem-Duplicate Record Item Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "DuplicateRecordSet-Duplicate Record Set Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "EBS_RecordType__mdt-EBS RecordType Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "EmailMessage-Email Message Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Error_Log__c-Error Log Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-ACE-Event"
+        },
+        "recordType": {
+            "_text": "Event.ACE_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-ACE-NF-Event"
+        },
+        "recordType": {
+            "_text": "Event.ACE_NF_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-ACE-SA-Event"
+        },
+        "recordType": {
+            "_text": "Event.ACE_SA_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-AMER Event"
+        },
+        "recordType": {
+            "_text": "Event.AMER_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-AMER LA BR NF-Event"
+        },
+        "recordType": {
+            "_text": "Event.AMER_LA_BR_NF_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-AMER LA CL NF-Event"
+        },
+        "recordType": {
+            "_text": "Event.AMER_LA_CL_NF_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-AMER LA MX NF-Event"
+        },
+        "recordType": {
+            "_text": "Event.AMER_LA_MX_NF_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-AMER MMS Training Event"
+        },
+        "recordType": {
+            "_text": "Event.AMER_MMS_Training_Event"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-AMER-LA-BR-Event-Page"
+        },
+        "recordType": {
+            "_text": "Event.AMER_LA_BR_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-AMER-LA-CL-Event-Page"
+        },
+        "recordType": {
+            "_text": "Event.AMER_LA_CL_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-AMER-LA-MX-Event-Page"
+        },
+        "recordType": {
+            "_text": "Event.AMER_LA_MX_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-AMER-NF-Event"
+        },
+        "recordType": {
+            "_text": "Event.AMER_NF_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-APAC-ANZ-Event"
+        },
+        "recordType": {
+            "_text": "Event.APAC_ANZ_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-APAC-CN-Event"
+        },
+        "recordType": {
+            "_text": "Event.APAC_CN_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-APAC-HK-Event"
+        },
+        "recordType": {
+            "_text": "Event.APAC_HK_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-APAC-JP-Event"
+        },
+        "recordType": {
+            "_text": "Event.APAC_JP_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-APAC-KR-Event"
+        },
+        "recordType": {
+            "_text": "Event.APAC_KR_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-APAC-MY-Event"
+        },
+        "recordType": {
+            "_text": "Event.APAC_MY_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-APAC-NF-Event"
+        },
+        "recordType": {
+            "_text": "Event.APAC_NF_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-APAC-SG-Event"
+        },
+        "recordType": {
+            "_text": "Event.APAC_SG_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-APAC-TW-Event"
+        },
+        "recordType": {
+            "_text": "Event.APAC_TW_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-EU Event"
+        },
+        "recordType": {
+            "_text": "Event.EU_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-EU Event"
+        },
+        "recordType": {
+            "_text": "Event.EU_LCP_Event"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-EU Event"
+        },
+        "recordType": {
+            "_text": "Event.Event"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-EU MMS Event"
+        },
+        "recordType": {
+            "_text": "Event.EU_MMS_Event"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-EU Non-Sales Event"
+        },
+        "recordType": {
+            "_text": "Event.EU_Non_Sales_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-EU-NF-Event"
+        },
+        "recordType": {
+            "_text": "Event.EU_NF_Events"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-Event Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Event-KAM Event"
+        },
+        "recordType": {
+            "_text": "Event.KAM_Event"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Expenses__c-Expenses Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Expenses__c-Expenses Layout"
+        },
+        "recordType": {
+            "_text": "Expenses__c.Expenses"
+        }
+    },
+    {
+        "layout": {
+            "_text": "FeedItem-Feed Item Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitset_Order__c-Fitset Order Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitset_Order__c-Fitset Order Layout"
+        },
+        "recordType": {
+            "_text": "Fitset_Order__c.Fitset_Order"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitset__c-Fitset Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitset__c-Fitset Layout"
+        },
+        "recordType": {
+            "_text": "Fitset__c.Fitset"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitter_Relationship__c-Fitter Relationship Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitter_Relationship__c-Fitter Relationship Layout"
+        },
+        "recordType": {
+            "_text": "Fitter_Relationship__c.Active_Fitter_Relationship"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitter_Relationship__c-Inactive Fitter Relationship Layout"
+        },
+        "recordType": {
+            "_text": "Fitter_Relationship__c.Inactive_Fitter_Relationship"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitting_Habits__c-Fitting Habits Layout %28Fitter%29"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitting_Habits__c-Fitting Habits Layout %28Fitter%29"
+        },
+        "recordType": {
+            "_text": "Fitting_Habits__c.AMER_Fitting_Habits"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Fitting_Habits__c-Fitting Habits Layout %28Fitter%29"
+        },
+        "recordType": {
+            "_text": "Fitting_Habits__c.Fitting_Habbit"
+        }
+    },
+    {
+        "layout": {
+            "_text": "FlowInterview-Flow Interview Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Form_Submission__c-Form Submission Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Global-Global Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Idea-Idea Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "IframeWhiteListUrl-Whitelisted Domain for Visualforce and Survey Inline Frames Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Individual-Individual Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "JP_Historical_Event__c-JP - Histrical Event Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-AMER US Lead"
+        },
+        "recordType": {
+            "_text": "Lead.AMER_US_Lead"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-APAC-JP-Lead-To-Account"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_JP_Lead_To_Account"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-APAC-JP-Lead-To-Account-Approved"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_JP_Lead_To_Account_Approved"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_ANZ_Leads"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_CN_Leads"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_HK_Leads"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_JP_Leads"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_JP_Master_Practitioner"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_KR_Leads"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_MY_Leads"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_SG_Leads"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead-Lead Layout"
+        },
+        "recordType": {
+            "_text": "Lead.APAC_TW_Leads"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Lead_Approval_History__c-Lead Approval History Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ListEmail-List Email Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Macro-Macro Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Marketing_Catalogue__c-Marketing Catalogue Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Marketing_Catalogue__c-Marketing Catalogue Layout"
+        },
+        "recordType": {
+            "_text": "Marketing_Catalogue__c.APAC_CN"
+        }
+    },
+    {
+        "layout": {
+            "_text": "MiSight_Course__c-MiSight Course Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "MiSight_Survey__c-APAC-ANZ MiSight Survey Page Layout"
+        },
+        "recordType": {
+            "_text": "MiSight_Survey__c.APAC_ANZ_MiSight_Survey"
+        }
+    },
+    {
+        "layout": {
+            "_text": "MiSight_Survey__c-APAC-HK MiSight Survey Page Layout"
+        },
+        "recordType": {
+            "_text": "MiSight_Survey__c.APAC_HK_MiSight_Survey"
+        }
+    },
+    {
+        "layout": {
+            "_text": "MiSight_Survey__c-APAC-MY MiSight Survey Page Layout"
+        },
+        "recordType": {
+            "_text": "MiSight_Survey__c.APAC_MY_MiSight_Survey"
+        }
+    },
+    {
+        "layout": {
+            "_text": "MiSight_Survey__c-APAC-SG MiSight Survey Page Layout"
+        },
+        "recordType": {
+            "_text": "MiSight_Survey__c.APAC_SG_MiSight_Survey"
+        }
+    },
+    {
+        "layout": {
+            "_text": "MiSight_Survey__c-MiSight Survey Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Monthly_Remaining_Call__c-Monthly Remaining Call Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "MyDayToricTarget__c-MyDay Toric Target Page Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "MyDayToricTarget__c-MyDay Toric Target Page Layout"
+        },
+        "recordType": {
+            "_text": "MyDayToricTarget__c.AMER_FS_Record_Type"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Non_Field_Event__c-Non Field Event Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ObjectTerritory2AssignmentRule-Object Territory Assignment Rule Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Objectives__c-KAM Objective Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-AMER Product Opportunity Layout"
+        },
+        "recordType": {
+            "_text": "Opportunity.AMER_Product_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-AMER Product Opportunity Layout"
+        },
+        "recordType": {
+            "_text": "Opportunity.AMER_Product_Opportunity_NA_Groups"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-APAC Eye Care Prime Page Layout"
+        },
+        "recordType": {
+            "_text": "Opportunity.APAC_EyeCare_Prime_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-APAC-AD-Opportunity"
+        },
+        "recordType": {
+            "_text": "Opportunity.APAC_AD_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-APAC-ANZ-Opportunity"
+        },
+        "recordType": {
+            "_text": "Opportunity.ANZ_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-APAC-CN-Opportunity"
+        },
+        "recordType": {
+            "_text": "Opportunity.APAC_CN_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-APAC-JP-Opportunity"
+        },
+        "recordType": {
+            "_text": "Opportunity.APAC_JP_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-APAC-KR-Opportunity"
+        },
+        "recordType": {
+            "_text": "Opportunity.APAC_KR_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-APAC-MY-Opportunity"
+        },
+        "recordType": {
+            "_text": "Opportunity.APAC_MY_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-APAC-SG-Opportunity"
+        },
+        "recordType": {
+            "_text": "Opportunity.APAC_SG_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-Opportunity Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Opportunity-Opportunity Layout"
+        },
+        "recordType": {
+            "_text": "Opportunity.AMER_EyeCare_Prime_Opportunity"
+        }
+    },
+    {
+        "layout": {
+            "_text": "OpportunityContactRole-Opportunity Contact Role Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "OpportunityLineItem-Opportunity Product Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-AD-Payment%2CCredit%2C Delivery and Invoice Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-AD-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.AD_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-AD-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.SA_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-ANZ-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.ANZ_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-CN-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.CN_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-HK-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.HK_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-JP-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.JP_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-KR-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.KR_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-MY-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.MY_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-SG-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.SG_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c-TW-Payment%2CCredit%2C Delivery and Invoice Layout"
+        },
+        "recordType": {
+            "_text": "Payment_Credit_Delivery_and_Invoice__c.TW_Payment_Credit_Delivery_and_Invoice"
+        }
+    },
+    {
+        "layout": {
+            "_text": "PersonAccount-ACE Fitter Layout"
+        },
+        "recordType": {
+            "_text": "PersonAccount.ACE_Fitter"
+        }
+    },
+    {
+        "layout": {
+            "_text": "PersonAccount-Fitter Layout"
+        },
+        "recordType": {
+            "_text": "PersonAccount.Fitter"
+        }
+    },
+    {
+        "layout": {
+            "_text": "PostalCodeRangeRecord__c-Postal Code Range Record Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Postal_Code_Country__mdt-Postal Code Country Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Postal_Code_Range__c-Postal Code Range Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Pricebook2-Price Book Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "PricebookEntry-Price Book Entry Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ProcessException-Process Exception Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product2-APAC-ANZ-Product Page Layout"
+        },
+        "recordType": {
+            "_text": "Product2.APAC_ANZ_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product2-APAC-CN-Product Page Layout"
+        },
+        "recordType": {
+            "_text": "Product2.APAC_CN_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product2-APAC-HK-Product Page Layout"
+        },
+        "recordType": {
+            "_text": "Product2.APAC_HK_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product2-APAC-JP-Product Page Layout"
+        },
+        "recordType": {
+            "_text": "Product2.APAC_JP_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product2-APAC-KR-Product Page Layout"
+        },
+        "recordType": {
+            "_text": "Product2.APAC_KR_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product2-APAC-MY-Product Page Layout"
+        },
+        "recordType": {
+            "_text": "Product2.APAC_MY_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product2-APAC-SG-Product Page Layout"
+        },
+        "recordType": {
+            "_text": "Product2.APAC_SG_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product2-APAC-TW-Product Page Layout"
+        },
+        "recordType": {
+            "_text": "Product2.APAC_TW_Product"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product2-Product Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product_Table__c-Product Table Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Product_Table__c-Product Table Layout"
+        },
+        "recordType": {
+            "_text": "Product_Table__c.AMER_US_Products"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Professional_Services__c-AMER Professional Services"
+        },
+        "recordType": {
+            "_text": "Professional_Services__c.AMER_Professional_Services"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Professional_Services__c-AMER US Event Request Form"
+        },
+        "recordType": {
+            "_text": "Professional_Services__c.AMER_US_Event_Request_Form"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Professional_Services__c-EMEA Training"
+        },
+        "recordType": {
+            "_text": "Professional_Services__c.EMEA_Training"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Professional_Services__c-Training Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Billing__c-Program Billing Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment_Product__c-Program Enrollment Product Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER CA 2020 TARP"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_CA_2020_TARP"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER CA CVI Advantage Rebate %28IECP%29 Program"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_CA_CVI_Advantage_Rebate_IECP_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER CA ECP Program Enrollment Layout"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_CA_ECP_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER CA Eye Care Prime E-Plan"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_CA_Eye_Care_Prime_EPlan"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER CA Eye Care Prime Local"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_CA_Eye_Care_Prime_Local"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER CA Eye Care Prime Mobile"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_CA_Eye_Care_Prime_Mobile"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER CA Eye Care Prime Social"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_CA_Eye_Care_Prime_Social"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER CA Marketing Program"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_CA_Marketing_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US Advantage Plus 1Day Growth"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_US_Advantage_Plus_1Day_Growth"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US Advantage Plus Base%2B"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_US_Advantage_Plus_Base"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US CVI Advantage Rebate Program"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_US_CVI_Advantage_Rebate_IECP_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US CVI Advantage Rebate Program"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_US_CVI_Advantage_Rebate_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US Cooper Direct"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_US_Cooper_Direct"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US ECP Program Enrollment Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US ECP Program Enrollment Layout"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_US_ECP_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US ECP Program Enrollment Layout"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.APAC_EyeCare_Lensferry_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US Marketing Program"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_US_Marketing_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-AMER US MiSight Program Enrollment"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.AMER_US_MiSight_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-APAC ECP Program Enrollment Layout"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.APAC_Eye_Care_Prime_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-APAC EyeCare Prime Reach"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.APAC_EyeCare_Prime_Reach_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-APAC-JP CV Prime Enrollment Page Layout"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.APAC_JP_CooperVision_Prime"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-APAC-SG Eye Care Prime E-Plan"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.APAC_SG_Eye_Care_Prime"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-EU 6-6"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.EU_6_6"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-EU EyeCare Prime Local"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.EU_EyeCare_Prime_Local"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-EU EyeCare Prime Mobile"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.EU_EyeCare_Prime_Mobile"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-EU EyeCare Prime Social"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.EU_EyeCare_Prime_Social"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-EU LensRefill"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.EU_LensRefill"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-EU Program"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.EU_Program_Enrollment"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-Europe e-plan Program Enrolment"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.EU_EyeCare_Prime_ePlan"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Enrollment__c-LATAM PE Page Layout"
+        },
+        "recordType": {
+            "_text": "Program_Enrollment__c.LATAM_PE_Record_Type"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program_Product__c-Program Product Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-AMER CA Program Layout"
+        },
+        "recordType": {
+            "_text": "Program__c.AMER_CA_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-AMER Program Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-AMER Program Layout"
+        },
+        "recordType": {
+            "_text": "Program__c.AMER_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-APAC Program Layout"
+        },
+        "recordType": {
+            "_text": "Program__c.APAC_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-EU 6-6 Program"
+        },
+        "recordType": {
+            "_text": "Program__c.EU_6_6_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-EU EyeCare Prime Local"
+        },
+        "recordType": {
+            "_text": "Program__c.EU_EyeCare_Prime_Local"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-EU EyeCare Prime Mobile"
+        },
+        "recordType": {
+            "_text": "Program__c.EU_EyeCare_Prime_Mobile"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-EU EyeCare Prime Social"
+        },
+        "recordType": {
+            "_text": "Program__c.EU_EyeCare_Prime_Social"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-EU LensRefill Program"
+        },
+        "recordType": {
+            "_text": "Program__c.EU_LensRefill_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-EU Program"
+        },
+        "recordType": {
+            "_text": "Program__c.EU_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-Europe e-plan Program"
+        },
+        "recordType": {
+            "_text": "Program__c.EU_EyeCare_Prime_ePlan"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Program__c-LATAM Program Layout"
+        },
+        "recordType": {
+            "_text": "Program__c.LATAM_Program"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Public_Holiday__c-Public Holiday Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "QuickText-Quick Text Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Receipts__c-Receipt Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Regional_Case_SLA__mdt-Regional Case SLA Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Reseller__c-Reseller Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Reseller__c-Reseller Layout"
+        },
+        "recordType": {
+            "_text": "Reseller__c.AMER_Reseller"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ReturnExchange_Item_Code__c-ReturnExchange Item Code Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Sales_Call_Planner__c-AMER Sales Call Planner Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Sales_Call_Planner__c-AMER Sales Call Planner Layout"
+        },
+        "recordType": {
+            "_text": "Sales_Call_Planner__c.AMER_Sales_Call_Planner"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Sales_Order__c-Sales Order Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Sales_Targets__c-Sales Targets Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Scorecard-Scorecard Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ScorecardAssociation-Scorecard Association Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "ScorecardMetric-Scorecard Metric Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Solution-Solution Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Spend_Profile__c-ACE Spend Profile"
+        },
+        "recordType": {
+            "_text": "Spend_Profile__c.ACE_Spend_Profile"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Spend_Profile__c-APAC Spend Profile Page Layout"
+        },
+        "recordType": {
+            "_text": "Spend_Profile__c.APAC_Spend_Profile"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Spend_Profile__c-EU Spend Profile"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Spend_Profile__c-EU Spend Profile"
+        },
+        "recordType": {
+            "_text": "Spend_Profile__c.EU_Spend_Profile"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Spend_Profile__c-EU Spend Profile"
+        },
+        "recordType": {
+            "_text": "Spend_Profile__c.Spend_Profile"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Spend_Profile__c-Product Portfolio Matrix"
+        },
+        "recordType": {
+            "_text": "Spend_Profile__c.Product_Portfolio_Matrix"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Strategic_Element__c-Strategic Element Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Strategy__c-KAM Strategy Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Target_Forecast__c-KAM Target Forecast"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Target_and_Segmentation__c-Target and Segmentation Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-ACE Task Layout"
+        },
+        "recordType": {
+            "_text": "Task.ACE_Task"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-AMER Fitset Call Layout"
+        },
+        "recordType": {
+            "_text": "Task.AMER_Fitset_Call"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-AMER Telemarketing Page Layout"
+        },
+        "recordType": {
+            "_text": "Task.AMER_Telemarketing_Task"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-Customer Contact"
+        },
+        "recordType": {
+            "_text": "Task.Customer_Contact"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-Customer Master Data Change"
+        },
+        "recordType": {
+            "_text": "Task.Customer_Master_Data_Change"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-LATAM Task Page Layout"
+        },
+        "recordType": {
+            "_text": "Task.LATAM_Task_Record_Type"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-Marketing BDP Request"
+        },
+        "recordType": {
+            "_text": "Task.Marketing_BDP_Request"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-Task Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-Task Layout"
+        },
+        "recordType": {
+            "_text": "Task.AMER_Task"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-Task Layout"
+        },
+        "recordType": {
+            "_text": "Task.General_Task"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Task-Task Layout"
+        },
+        "recordType": {
+            "_text": "Task.KAM_Task"
+        }
+    },
+    {
+        "layout": {
+            "_text": "TerrAlign_Data__c-AMER TerrAlign Data Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "TerrAlign_Data__c-AMER TerrAlign Data Layout"
+        },
+        "recordType": {
+            "_text": "TerrAlign_Data__c.AMER_TerrAlign_Data"
+        }
+    },
+    {
+        "layout": {
+            "_text": "TerrAlign_Data__c-Europe TerrAlign Data Layout"
+        },
+        "recordType": {
+            "_text": "TerrAlign_Data__c.Europe_TerrAlign_Data"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Territory2-Territory Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Territory2Model-Territory Model Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Territory2Type-Territory Type Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Territory_Fields_To_Account_Fields__mdt-Territory Fields To Account Fields Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Trainer__c-Trainer Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Training_Attendee__c-Training Attendee Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Training_Location_Accounts__c-Training Location Accounts Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "User-User Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "UserAlt-ユーザプロファイルレイアウト"
+        }
+    },
+    {
+        "layout": {
+            "_text": "UserTerritory2Association-User Territory Association Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Website__c-Website Layout"
+        }
+    },
+    {
+        "layout": {
+            "_text": "Work_Day__c-Work Day Layout"
+        }
+    }
+]

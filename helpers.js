@@ -60,17 +60,15 @@ module.exports = {
 
                 case 'xml': try {
                     let json = fs.readFileSync(profile);
-                    console.log(json);
+            
                     if (typeof json !== Object) json = JSON.parse(json);
-                    console.log(messaging.FAIL, 'BREAK');
-                    console.log(json);
+    
                     const xml = js2xml(json, {
                         compact: true,
                         ignoreComment: true,
                         spaces: 4
                     });
-                    console.log(messaging.WARNING, 'BREAK');
-                    console.log('xml: ' + xml);
+
                     fs.writeFileSync('output.xml', xml);
                     return xml;
                 } catch (err) {console.error(messaging.SUCCESS, err)}
