@@ -44,7 +44,7 @@ module.exports = {
         }
         return profileArray;
     },
-    convertData: (profile, format) => {
+    convertData: (profile, format, file) => {
         console.log(profile);
         if (profile && format) {
             switch (format) {
@@ -69,11 +69,19 @@ module.exports = {
                         spaces: 4
                     });
 
-                    fs.writeFileSync('output.xml', xml);
+                    fs.writeFileSync(file, xml);
                     return xml;
                 } catch (err) {console.error(messaging.SUCCESS, err)}
             }
         } else console.error(messaging.WARNING, 'something is wrong here');
+    },
+    pluck: (metadata) => {
+        for (let i = 0; i < metadata.length; i++) {
+            //console.log(metadata[i]);
+            //console.log(metadata[i].recordType._text);
+            if (!metadata[i].recordType._text) delete metadata[i].recordType;
+        }
+        return metadata;
     }
 
 }

@@ -2,9 +2,6 @@
     {
         "layout": {
             "_text": "Account-AMER Location Account Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -74,33 +71,21 @@
     {
         "layout": {
             "_text": "Account_Call_History__c-Accoun Call History Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Account_Revenue__c-Account Revenue Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Account_Segmentation__c-APAC-MY Segmentation Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Bank__c-Bank Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -186,25 +171,16 @@
     {
         "layout": {
             "_text": "Campaign-AMER Campaign"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "CampaignMember-Campaign Member Page Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Case-Case Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -570,9 +546,6 @@
     {
         "layout": {
             "_text": "CaseClose-AMER Close Case Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -634,17 +607,11 @@
     {
         "layout": {
             "_text": "Error_Log__c-Error Log Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Event-Event Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -754,9 +721,6 @@
     {
         "layout": {
             "_text": "Fitset__c-Fitset Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -770,9 +734,6 @@
     {
         "layout": {
             "_text": "Fitset_Order__c-Fitset Order Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -786,9 +747,6 @@
     {
         "layout": {
             "_text": "Fitting_Habits__c-Fitting Habits Layout %28Fitter%29"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -810,25 +768,16 @@
     {
         "layout": {
             "_text": "Form_Submission__c-Form Submission Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "JP_Historical_Event__c-JP - Histrical Event Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Lead-Lead Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -866,17 +815,11 @@
     {
         "layout": {
             "_text": "Non_Field_Event__c-Non Field Event Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Product_Table__c-Product Table Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -890,17 +833,11 @@
     {
         "layout": {
             "_text": "Product2-Product Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Professional_Services__c-Training Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -930,9 +867,6 @@
     {
         "layout": {
             "_text": "Program__c-AMER Program Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -1034,9 +968,6 @@
     {
         "layout": {
             "_text": "Program_Enrollment__c-AMER US ECP Program Enrollment Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -1282,57 +1213,36 @@
     {
         "layout": {
             "_text": "Program_Product__c-Program Product Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Public_Holiday__c-Public Holiday Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Receipts__c-Receipt Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Regional_Case_SLA__mdt-Regional Case SLA Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Reseller__c-Reseller Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Reseller__c-Reseller Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "ReturnExchange_Item_Code__c-ReturnExchange Item Code Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -1378,9 +1288,6 @@
     {
         "layout": {
             "_text": "TerrAlign_Data__c-AMER TerrAlign Data Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
@@ -1394,25 +1301,16 @@
     {
         "layout": {
             "_text": "User-User Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Website__c-Website Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     },
     {
         "layout": {
             "_text": "Work_Day__c-Work Day Layout"
-        },
-        "recordType": {
-            "_text": ""
         }
     }
 ]
