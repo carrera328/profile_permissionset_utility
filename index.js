@@ -4,7 +4,6 @@ const parser = require('json2csv');
 const path = require('path');
 const helper = require('./helpers.js');
 const constants = require('./constants.js');
-const util = require('util');
 
 // TODO: get profiles from arguments
 const argv = require('minimist')(process.argv.slice(2));
@@ -32,12 +31,23 @@ let profiles = [];
 // main
 (async () => {
     profiles = await helper.profileArray(directory);
-    profiles.forEach((profile) => console.log(directory + profile));
-    const result = await helper.convertData(path.resolve(directory + profiles[0]), 'xml');
-    const result2 = await helper.convertData('./output.json', 'json');
-    console.log(result2);
+    //profiles.forEach((profile) => console.log(directory + profile));
+    const jsonProfile = await helper.convertData(path.resolve(directory + profiles[0]), 'json');
 
-    console.log(result);
+    const xmlProfile = helper.convertData('output.json', 'xml');
+    
+    
+    
+    //TODO: extract layouts portion of profiles
+
+    //TODO: manipulate layouts chunk
+
+    //TODO: 
+
+
+    // const xmlProfile = await helper.convertData('./output.json', 'json');
+    // console.log(xmlProfile);
+    
 })();
 
 console.log(constants.messaging.SUCCESS, 'bruh you\'re finally done, you can stop pretending to be a dev now');

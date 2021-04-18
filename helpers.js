@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const {
     xml2js,
-    js2xml
+    js2xml,
 } = require('xml-js');
 const {
     messaging
@@ -45,29 +45,35 @@ module.exports = {
         return profileArray;
     },
     convertData: (profile, format) => {
+        console.log(profile);
         if (profile && format) {
             switch (format) {
-                case 'xml': {
+                case 'json': {
                     let xml = fs.readFileSync(profile);
                     const json = xml2js(xml, {
-                        compact: false,
+                        compact: true,
                         spaces: 4
                     });
                     fs.writeFileSync('output.json', JSON.stringify(json, null, 4));
                     return json;
                 }
 
-                case 'json': {
+                case 'xml': try {
                     let json = fs.readFileSync(profile);
+                    console.log(json);
                     if (typeof json !== Object) json = JSON.parse(json);
+                    console.log(messaging.FAIL, 'BREAK');
+                    console.log(json);
                     const xml = js2xml(json, {
-                        compact: false,
+                        compact: true,
                         ignoreComment: true,
                         spaces: 4
                     });
+                    console.log(messaging.WARNING, 'BREAK');
+                    console.log('xml: ' + xml);
                     fs.writeFileSync('output.xml', xml);
                     return xml;
-                }
+                } catch (err) {console.error(messaging.SUCCESS, err)}
             }
         } else console.error(messaging.WARNING, 'something is wrong here');
     }
