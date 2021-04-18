@@ -55,7 +55,7 @@ let profiles = [];
     const layoutMetadata = await csvtojsonV2().fromFile('AMER_Analyst_Layout_Assignment_API.csv').then((jsonObj) => jsonObj);
     //console.log(layoutMetadata);
     // //TODO: manipulate layouts chunk
-    const stuffs = pluck(layoutMetadata);
+    const stuffs = {layoutAssignments: pluck(layoutMetadata)};
     fs.writeFileSync('pluckedjson.json', JSON.stringify(stuffs, null, 4));
     // //TODO: replace existing chunk with new chunk
     
