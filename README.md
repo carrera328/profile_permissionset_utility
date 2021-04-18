@@ -13,6 +13,8 @@ Profile Utility is a Node.JS CLI application that manipulates profiles and permi
 
 * open the root directory of the application in a terminal
 * run a command structured in the following format:
+
+
 `npm run start -- --csv PATH/TO/CSV --file PATH/TO/VALID/"PROFILE NAME WRAPPED IN QUOTES"`
 
 The --csv and --file flags are required, the tool will not work without these arguments
@@ -20,8 +22,8 @@ The --csv and --file flags are required, the tool will not work without these ar
 The Profile Utlity will generate several files including a copy of the original profile with the new modifications:  
 
 * output.json - the original profile formatted into JSON
-* chunk.json - only the layout section of the profile in JSON
+* chunk.json - only the chunk section of the profile in JSON
 * chunk.xml - XML representation of chunk.json
-* incomingLayoutMetadata.json - JSON representation of the CSV that was loaded in the --file command
+* incomingLayoutMetadata.json - JSON representation of the CSV metadata that was loaded in the --file command
 * stage.json - original profile JSON with new metadata spliced in
 * FILE_NAME.profile - the new profile in profile format
