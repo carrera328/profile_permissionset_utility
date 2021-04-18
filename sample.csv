@@ -1,0 +1,178 @@
+﻿layout._text,recordType._text
+Account-AMER Location Account Layout,
+Account-AMER LA Brazil Account Layout,Account.AMER_LA_Brazil_Account
+Account-AMER LA Chile Account Layout,Account.AMER_LA_Chile_Account
+Account-AMER LA Colombia Account Layout,Account.AMER_LA_Colombia_Account
+Account-AMER LA Mexico Account Layout,Account.AMER_LA_Mexico_Account
+Account-AMER Location Account Layout,Account.Account-AMER Location Account Layout
+Account-GLOBAL Key Account,Account.GLOBAL_Key_Account
+Account-MARKET Key Account,Account.MARKET_Key_Account
+Account-REGIONAL Key Account,Account.REGIONAL_Key_Account
+Account_Call_History__c-Accoun Call History Layout,
+Account_Revenue__c-Account Revenue Layout,
+Account_Segmentation__c-APAC-MY Segmentation Layout,
+Bank__c-Bank Layout,
+Buying_Relationship__c -AMER Buying Relationship Layout,Buying_Relationship__c .AMER
+Buying_Relationship__c -APAC Buying Relationship Layout,Buying_Relationship__c .ANZ
+Buying_Relationship__c -EMEA Buying Relationship Layout,Buying_Relationship__c .BENELUX
+Buying_Relationship__c -EMEA Buying Relationship Layout,Buying_Relationship__c .CEE
+Buying_Relationship__c -EMEA Buying Relationship Layout,Buying_Relationship__c .DACH
+Buying_Relationship__c -EMEA Buying Relationship Layout,Buying_Relationship__c .FRANCE
+Buying_Relationship__c -EMEA Buying Relationship Layout,Buying_Relationship__c .IBERIA
+Buying_Relationship__c -EMEA Buying Relationship Layout,Buying_Relationship__c .ITALY
+Buying_Relationship__c -EMEA Buying Relationship Layout,Buying_Relationship__c .NORDIC
+Buying_Relationship__c -EMEA Buying Relationship Layout,Buying_Relationship__c .UK
+Campaign-AMER Campaign,
+CampaignMember-Campaign Member Page Layout,
+Case-Case Layout,
+Case-Case Layout,Case.AMER_Account_Transfer
+Case-Case Layout,Case.AMER_Administrative
+Case-Case Layout,Case.AMER_Customer_Satisfaction
+Case-Case Layout,Case.AMER_Fit_Set_Transfer
+Case-Case-AMER Rebate Administration,Case.AMER_Rebate_Administration
+Case-AMER US MiSight Administrative Case,Case.AMER_US_MiSight_Administrative_Case
+Case-Case Layout,Case.APAC_Administrative
+Case-Case Layout,Case.APAC_Credit_Stop
+Case-Case Layout,Case.APAC_Customer_Satisfaction
+Case-Case Layout,Case.APAC_Exception_Request
+Case-Case Layout,Case.APAC_Exchange
+Case-Case Layout,Case.APAC_Marketing_Material
+Case-Case Layout,Case.APAC_Rebate
+Case-Case Layout,Case.APAC_Return
+Case-Case Layout,Case.Customer_Services
+Case-EU Account Maintenance Request FB,Case.EMEA_Account_Administration
+Case-EU Account Maintenance Request FB,Case.EU_Account_Maintenance_Request
+Case-EU Customer Care FB,Case.EU_Customer_Care
+Case-,Case.EMEA_Customer_Satisfaction
+Case-EU Customer Care FB,Case.EMEA_Customer_Satisfaction
+Case-EU New Account Request FB,Case.EU_New_Account_Request
+Case-EU New Account Request FB,Case.EMEA_New_Account_Request
+Case-EU Orders FB,Case.EU_Orders
+Case-EU Orders FB,Case.EMEA_Orders
+Case-EU Pricing Request FB,Case.EU_Pricing_Request
+Case-EU Pricing Request FB,Case.EMEA_Pricing Request
+Case-EU Returns %26 Credits FB,Case.EU_Returns_Credits
+Case-EU Returns %26 Credits FB,Case.EMEA_Returns_Adjustments
+Case-EU Segmentation Change Request,Case.EU_Segmentation_Change_Request
+Case-EU Territory Change Request,Case.EU_Territory_Change_Request
+Case-,Case.EMEA_Territory_Change_Request
+Case-Global Billing Adjustment,Case.Global_Billing_Adjustment
+Case-Global Case Order Entry,Case.Global_Order_Entry
+Case-Global Sales Concession,Case.Global_Sales_Concession
+Case-EMEA Pricing Request Layout,Case.Global_Special_Pricing_Request
+Case_Form_Line_Item__c-Case Form Line Item Layout,Case_Form_Line_Item__c
+Case_Form_Line_Item__c-Case Form Line Item Layout,Case_Form_Line_Item__c.Global_Billing_Adjustment
+Case_Form_Line_Item__c-Case Form Line Item Layout,Case_Form_Line_Item__c.Global_Order_Entry
+Case_Form_Line_Item__c-Case Form Line Item Layout,Case_Form_Line_Item__c.Global_Sales_Concession
+Case_Form_Line_Item__c-Case Form Line Item Layout,Case_Form_Line_Item__c.Global_Special_Pricing_Request
+Case_Forms__c-Case Form Layout,Case_Forms__c
+Case_Forms__c-Global Billing Adjustment,Case_Forms__c.Global_Billing_Adjustment
+Case_Forms__c-Case Form Layout,Case_Forms__c.Global_Order_Entry
+Case_Forms__c-Global Sales Concession,Case_Forms__c.Global_Sales_Concession
+Case_Forms__c-Global Special Pricing Request,Case_Forms__c.Global_Special_Pricing_Request
+CaseClose-AMER Close Case Layout,
+Contact-AMER Contact,Contact.AMER_Contact
+Contact-AMER LA Contact Layout,Contact.AMER_LA_Contact_Layout
+Contact-AMER LA Contact Layout,Contact.AMER_LA_Chile_Contact
+Contact-AMER LA Colombia Contact Layout,Contact.AMER_LA_Colombia_Contact
+Contact-AMER LA Mexico Contact Layout,Contact.AMER_LA_Mexico_Contact
+Contact-Contact Layout,Contact.Contact_Record_Type
+Contact-KAM Contact Layout,Contact.KAM_Contact
+Error_Log__c-Error Log Layout,
+Event-Event Layout,
+Event-ACE-Event,Event.ACE_Events
+Event-ACE-NF-Event,Event.ACE_NF_Events
+Event-ACE-SA-Event,Event.ACE_SA_Events
+Event-AMER Event,Event.AMER_Events
+Event-AMER-LA-BR-Event-Page,Event.AMER_LA_BR_Events
+Event-AMER LA BR NF-Event,Event.AMER_LA_BR_NF_Events
+Event-AMER-LA-CL-Event-Page,Event.AMER_LA_CL_Events
+Event-AMER LA CL NF-Event,Event.AMER_LA_CL_NF_Events
+Event-AMER-LA-MX-Event-Page,Event.AMER_LA_MX_Events
+Event-AMER LA MX NF-Event,Event.AMER_LA_MX_NF_Events
+Event-AMER MMS Training Event,Event.AMER_MMS_Training_Event
+Event-AMER-NF-Event,Event.AMER_NF_Events
+Event-KAM Event,Event.KAM_Event
+Fitset__c-Fitset Layout,
+Fitset__c-Fitset Layout,Fitset__c.Fitset
+Fitset_Order__c-Fitset Order Layout,
+Fitset_Order__c-Fitset Order Layout,Fitset_Order__c.Fitset_Order
+Fitting_Habits__c-Fitting Habits Layout %28Fitter%29,
+Fitting_Habits__c-AMER Fitting Habits Layout,Fitting_Habits__c.AMER_Fitting_Habits
+Fitting_Habits__c-Fitting Habits Layout %28Fitter%29,Fitting_Habits__c.Fitting_Habbit
+Form_Submission__c-Form Submission Layout,
+JP_Historical_Event__c-JP - Histrical Event Layout,
+Lead-Lead Layout,
+Lead-AMER US Lead,Lead.AMER_US_Lead
+Monthly_Remaining_Call__c-Monthly Remaining Call Layout,Monthly_Remaining_Call__c
+MyDayToricTarget__c-MyDay Toric Target Page Layout,MyDayToricTarget__c
+MyDayToricTarget__c-MyDay Toric Target Page Layout,MyDayToricTarget__c.AMER_FS_Record_Type
+Non_Field_Event__c-Non Field Event Layout,
+Product_Table__c-Product Table Layout,
+Product_Table__c-Product Table Layout,Product_Table__c.AMER_US_Products
+Product2-Product Layout,
+Professional_Services__c-Training Layout,
+Professional_Services__c-AMER Professional Services,Professional_Services__c.AMER_Professional_Services
+Professional_Services__c-AMER US Event Request Form,Professional_Services__c.AMER_US_Event_Request_Form
+Professional_Services__c-EMEA Training,Professional_Services__c.EMEA_Training
+Program__c-AMER Program Layout,
+Program__c-AMER CA Program Layout,Program__c.AMER_CA_Program
+Program__c-AMER Program Layout,Program__c.AMER_Program
+Program__c-APAC Program Layout,Program__c.APAC_CV_Prime_Program
+Program__c-APAC Program Layout,Program__c.APAC_Program
+Program__c-EU 6-6 Program,Program__c.EU_6_6_Program
+Program__c-Europe e-plan Program,Program__c.EU_EyeCare_Prime_ePlan
+Program__c-EU EyeCare Prime Local,Program__c.EU_EyeCare_Prime_Local
+Program__c-EU EyeCare Prime Mobile,Program__c.EU_EyeCare_Prime_Mobile
+Program__c-EU EyeCare Prime Social,Program__c.EU_EyeCare_Prime_Social
+Program__c-EU LensRefill Program,Program__c.EU_LensRefill_Program
+Program__c-EU Program,Program__c.EU_Program
+Program__c-LATAM Program Layout,Program__c.LATAM_Program
+Program_Enrollment__c-AMER US ECP Program Enrollment Layout,
+Program_Enrollment__c-AMER CA 2020 TARP,Program_Enrollment__c.AMER_CA_2020_TARP
+Program_Enrollment__c-AMER CA CVI Advantage Rebate %28IECP%29 Program,Program_Enrollment__c.AMER_CA_CVI_Advantage_Rebate_IECP_Program
+Program_Enrollment__c-AMER CA ECP Program Enrollment Layout,Program_Enrollment__c.AMER_CA_ECP_Program
+Program_Enrollment__c-AMER CA Eye Care Prime E-Plan,Program_Enrollment__c.AMER_CA_Eye_Care_Prime_EPlan
+Program_Enrollment__c-AMER CA Eye Care Prime Local,Program_Enrollment__c.AMER_CA_Eye_Care_Prime_Local
+Program_Enrollment__c-AMER CA Eye Care Prime Mobile,Program_Enrollment__c.AMER_CA_Eye_Care_Prime_Mobile
+Program_Enrollment__c-AMER CA Eye Care Prime Social,Program_Enrollment__c.AMER_CA_Eye_Care_Prime_Social
+Program_Enrollment__c-AMER CA MiSight Program Enrollment,Program_Enrollment__c.AMER_CA_MiSight_Program
+Program_Enrollment__c-AMER US Advantage Plus 1Day Growth,Program_Enrollment__c.AMER_US_Advantage_Plus_1Day_Growth
+Program_Enrollment__c-AMER US Advantage Plus Base%2B,Program_Enrollment__c.AMER_US_Advantage_Plus_Base
+Program_Enrollment__c-AMER US Cooper Direct,Program_Enrollment__c.AMER_US_Cooper_Direct
+Program_Enrollment__c-AMER US CVI Advantage Rebate Program,Program_Enrollment__c.AMER_US_CVI_Advantage_Rebate_IECP_Program
+Program_Enrollment__c-AMER US CVI Advantage Rebate Program,Program_Enrollment__c.AMER_US_CVI_Advantage_Rebate_Program
+Program_Enrollment__c-AMER US ECP Program Enrollment Layout,Program_Enrollment__c.AMER_US_ECP_Program
+Program_Enrollment__c-AMER US Marketing Program,Program_Enrollment__c.AMER_US_Marketing_Program
+Program_Enrollment__c-AMER US MiSight Program Enrollment,Program_Enrollment__c.AMER_US_MiSight_Program
+Program_Enrollment__c-APAC ECP Program Enrollment Layout,Program_Enrollment__c.APAC_Eye_Care_Prime_Program
+Program_Enrollment__c-AMER US ECP Program Enrollment Layout,Program_Enrollment__c.APAC_EyeCare_Lensferry_Program
+Program_Enrollment__c-APAC EyeCare Prime Reach,Program_Enrollment__c.APAC_EyeCare_Prime_Reach_Program
+Program_Enrollment__c-APAC-JP CV Prime Enrollment Page Layout,Program_Enrollment__c.APAC_JP_CooperVision_Prime
+Program_Enrollment__c-APAC-SG Eye Care Prime E-Plan,Program_Enrollment__c.APAC_SG_Eye_Care_Prime
+Program_Enrollment__c-EU 6-6,Program_Enrollment__c.EU_6_6
+Program_Enrollment__c-Europe e-plan Program Enrolment,Program_Enrollment__c.EU_EyeCare_Prime_ePlan
+Program_Enrollment__c-EU EyeCare Prime Local,Program_Enrollment__c.EU_EyeCare_Prime_Local
+Program_Enrollment__c-EU EyeCare Prime Mobile,Program_Enrollment__c.EU_EyeCare_Prime_Mobile
+Program_Enrollment__c-EU EyeCare Prime Social,Program_Enrollment__c.EU_EyeCare_Prime_Social
+Program_Enrollment__c-EU LensRefill,Program_Enrollment__c.EU_LensRefill
+Program_Enrollment__c-EU Program,Program_Enrollment__c.EU_Program_Enrollment
+Program_Enrollment__c-LATAM PE Page Layout,Program_Enrollment__c.LATAM_PE_Record_Type
+Program_Enrollment_Product__c-Program Enrollment Product Layout,Program_Enrollment_Product__c
+Program_Product__c-Program Product Layout,
+Public_Holiday__c-Public Holiday Layout,
+Receipts__c-Receipt Layout,
+Regional_Case_SLA__mdt-Regional Case SLA Layout,
+Reseller__c-Reseller Layout,
+Reseller__c-Reseller Layout,
+ReturnExchange_Item_Code__c-ReturnExchange Item Code Layout,
+Task-AMER Fitset Call Layout,Task.AMER_Fitset_Call
+Task-AMER Task Layout,Task.AMER_Task
+Task-Customer Contact,Task.Customer_Contact
+Task-KAM Task,Task.KAM_Task
+Task-LATAM Task Page Layout,Task.LATAM_Task_Record_Type
+TerrAlign_Data__c-AMER TerrAlign Data Layout,
+TerrAlign_Data__c-AMER TerrAlign Data Layout,TerrAlign_Data__c.AMER_TerrAlign_Data
+User-User Layout,
+Website__c-Website Layout,
+Work_Day__c-Work Day Layout,

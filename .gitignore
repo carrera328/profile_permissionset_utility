@@ -8,4 +8,4 @@ chunk.json
 *.xml
 incomingLayoutMetadata.json
 stage.json
-!samplecsv
+!sample.csv
