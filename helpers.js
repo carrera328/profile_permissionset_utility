@@ -45,7 +45,7 @@ module.exports = {
         return profileArray;
     },
     convertData: (profile, format, file) => {
-        console.log(profile);
+        
         if (profile && format) {
             switch (format) {
                 case 'json': {

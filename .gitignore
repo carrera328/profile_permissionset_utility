@@ -8,3 +8,4 @@ chunk.json
 *.xml
 incomingLayoutMetadata.json
 stage.json
+!AMER_Analyst_Layout_Assignment_API.csv
