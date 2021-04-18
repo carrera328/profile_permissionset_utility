@@ -33,41 +33,26 @@ let profiles = [];
 // main
 (async () => {
     profiles = await helper.profileArray(directory);
-    //profiles.forEach((profile) => console.log(directory + profile));
-    const jsonProfile = await helper.convertData(path.resolve(directory + profiles[0]), 'json');
+    let jsonProfile = await helper.convertData(path.resolve(directory + profiles[0]), 'json');
 
-    const xmlProfile = helper.convertData('output.json', 'xml', 'dash.xml');
-    
-    //console.log(xmlProfile);
-    
     // //TODO: extract layouts portion of profiles
-    console.log(jsonProfile.Profile.layoutAssignments);
-    const layoutChunk = {layoutAssignments: jsonProfile.Profile.layoutAssignments}
-
+    const layoutChunk = {layoutAssignments: jsonProfile.Profile.layoutAssignments};
     fs.writeFileSync('chunk.json', JSON.stringify(layoutChunk, null, 4));
-   
-    const test = helper.convertData('chunk.json', 'xml', 'ass.xml');
+    helper.convertData('chunk.json', 'xml', 'chunk.xml');
     
-
-    let fields = ['layout._text', 'recordType._text'];
-    let json2csv = new Parser({fields}); 
-    
-    const layoutMetadata = await csvtojsonV2().fromFile('AMER_Analyst_Layout_Assignment_API.csv').then((jsonObj) => jsonObj);
-    //console.log(layoutMetadata);
     // //TODO: manipulate layouts chunk
-    const stuffs = {layoutAssignments: pluck(layoutMetadata)};
-    fs.writeFileSync('pluckedjson.json', JSON.stringify(stuffs, null, 4));
-    // //TODO: replace existing chunk with new chunk
-    
-    
-     const newerXml = await helper.convertData('pluckedjson.json', 'xml', 'oliver.xml');
+    let layoutMetadata = await csvtojsonV2().fromFile('AMER_Analyst_Layout_Assignment_API.csv').then((jsonObj) => jsonObj);
+    layoutMetadata = {layoutAssignments: pluck(layoutMetadata)};
+    fs.writeFileSync('incomingLayoutMetadata.json', JSON.stringify(layoutMetadata, null, 4));
 
-    // fs.writeFileSync('fucking_shit.xml', newerXml);
-    
-  
+    // //TODO: replace existing chunk with new chunk
+    jsonProfile.Profile.layoutAssignments = layoutMetadata.layoutAssignments;
+    fs.writeFileSync('stage.json', JSON.stringify(jsonProfile, null, 4));
+    await helper.convertData('stage.json', 'xml', `${profiles[0]}`)
+     
 })();
 
-console.log(constants.messaging.SUCCESS, 'bruh you\'re finally done, you can stop pretending to be a dev now');
+
 
 
 

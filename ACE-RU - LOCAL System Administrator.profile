@@ -27360,363 +27360,7 @@
         <flow>X000_Liz_Test</flow>
     </flowAccesses>
     <layoutAssignments>
-        <layout>APACAccounts__mdt-APACAccounts Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Approver_Threshold__c-APAC Approver Threshold Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-ANZ-Customer Satisfaction</layout>
-        <recordType>APAC_Case_Form__c.APAC_ANZ_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-ANZ-Customer Satisfaction</layout>
-        <recordType>APAC_Case_Form__c.APAC_TW_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-ANZ-Customer Satisfaction</layout>
-        <recordType>APAC_Case_Form__c.APAC_TW_Return_Defective_Lens</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-ANZ-Pricing Credit</layout>
-        <recordType>APAC_Case_Form__c.APAC_ANZ_Pricing_Credit</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-ANZ-Return</layout>
-        <recordType>APAC_Case_Form__c.APAC_ANZ_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-CN-Customer Satisfaction</layout>
-        <recordType>APAC_Case_Form__c.APAC_CN_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-CN-Exchange</layout>
-        <recordType>APAC_Case_Form__c.APAC_CN_Exchange</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-CN-MarketingMaterial - SR</layout>
-        <recordType>APAC_Case_Form__c.APAC_CN_Marketing_Material</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-CN-Rebate Layout</layout>
-        <recordType>APAC_Case_Form__c.APAC_CN_Rebate</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-CN-Return</layout>
-        <recordType>APAC_Case_Form__c.APAC_CN_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-Case Form Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-Case Form Layout</layout>
-        <recordType>APAC_Case_Form__c.APAC_MY_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-Case Form Layout</layout>
-        <recordType>APAC_Case_Form__c.APAC_SG_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-HK-Administrative</layout>
-        <recordType>APAC_Case_Form__c.APAC_HK_Administrative</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-HK-Customer Satisfaction</layout>
-        <recordType>APAC_Case_Form__c.APAC_HK_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-HK-Return</layout>
-        <recordType>APAC_Case_Form__c.APAC_HK_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-HK-Return %28Defective Lens%29</layout>
-        <recordType>APAC_Case_Form__c.APAC_HK_Return_Defective_Lens</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Customer Modification</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_2_Customer_Modification_SO</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Customer Modification</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Customer_Modification</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Customer Modification-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_2_Customer_Modification_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Customer Registration</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Customer_Registration</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Customer Registration-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_1_Customer_Registration_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Entertainment</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Entertainment</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Entertainment-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_9_Entertainment_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Grouping Form</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Group_Case</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Grouping Form-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_A11_Group_Case_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Payment Request</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Payment_or_Purchase_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Payment Request-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_A10_Payment_Or_Purchase_Request_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Price Registration</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Price_Registration</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Price Registration-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_3_Price_Registration_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Product Distribution</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Product_Distribution</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Product Distribution-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_4_Product_Distribution_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Return</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Return_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Return-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_6_Return_Request_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Sales Promotion</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Sales_Promotion</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Sales Promotion-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_7_Sales_Promotion_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Special Delivery Arrangement</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_8_Special_Delivery_PS</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Special Delivery Arrangement</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Special_Delivery</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Special Delivery Arrangement-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_8_Special_Delivery_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Special Request</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_5_Special_Request_PS</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Special Request</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_5_Special_Request_SO</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Special Request</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_Special_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-JP-Special Request-Approved</layout>
-        <recordType>APAC_Case_Form__c.APAC_JP_5_Special_Request_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-KR-Customer Satisfaction</layout>
-        <recordType>APAC_Case_Form__c.APAC_KR_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-KR-Return</layout>
-        <recordType>APAC_Case_Form__c.APAC_KR_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-MY Administrative</layout>
-        <recordType>APAC_Case_Form__c.APAC_MY_Administrative</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-MY-Credit Stop</layout>
-        <recordType>APAC_Case_Form__c.APAC_MY_Credit_Stop</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-Price Exception Request</layout>
-        <recordType>APAC_Case_Form__c.APAC_Pricing_Exception_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-SG-Administrative</layout>
-        <recordType>APAC_Case_Form__c.APAC_SG_Administrative</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-SG-Customer Satisfaction</layout>
-        <recordType>APAC_Case_Form__c.APAC_SG_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-TW-Administrative</layout>
-        <recordType>APAC_Case_Form__c.APAC_TW_Administrative</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-TW-Customer Satisfaction</layout>
-        <recordType>APAC_Case_Form__c.APAC_TW_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Form__c-APAC-TW-Exchange</layout>
-        <recordType>APAC_Case_Form__c.APAC_TW_Exchange</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_ANZ_Case_Item</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_CN_Case_Item</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_CN_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_HK_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_HK_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_HK_Return_Defective_Lens</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_KR_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_MY_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_SG_Administrative</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_SG_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_TW_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_TW_Exchange</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_TW_Return</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-ANZ-Case Item Layout</layout>
-        <recordType>APAC_Case_Item__c.APAC_TW_Return_Defective_Lens</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-CN-ECP</layout>
-        <recordType>APAC_Case_Item__c.APAC_CN_ECP</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-CN-Marketing Material - SR</layout>
-        <recordType>APAC_Case_Item__c.APAC_CN_Marketing_Material</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-CN-Rebate</layout>
-        <recordType>APAC_Case_Item__c.APAC_CN_Rebate</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Case_Item__c-APAC-Price Exception Request Item</layout>
-        <recordType>APAC_Case_Item__c.APAC_Pricing_Exception_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Events_History__c-APAC Events History Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_JP_Case_Form_Participant__c-APAC - JP - Case Form Participant Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_JP_Case_Form_Product__c-APAC - JP - Case Form Product Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_JP_Case_Form_Product__c-APAC - JP - Case Form Product Layout</layout>
-        <recordType>APAC_JP_Case_Form_Product__c.Case_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_JP_Case_Form_Product__c-APAC - JP - Group Case Form Product Layout</layout>
-        <recordType>APAC_JP_Case_Form_Product__c.Group_Case_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_JP_Case_Route_Selection__c-APAC JP Case Route Selection Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Revenue_Summary__c-APAC Revenue Summary Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Revenue_Summary__c-CN Revenue Summary</layout>
-        <recordType>APAC_Revenue_Summary__c.CN_Revenue_Summary</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Revenue_Summary__c-HK Revenue Summary</layout>
-        <recordType>APAC_Revenue_Summary__c.HK_Revenue_Summary</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Revenue_Summary__c-JP Revenue Summary</layout>
-        <recordType>APAC_Revenue_Summary__c.JP_Revenue_Summary</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Revenue_Summary__c-KR Revenue Summary</layout>
-        <recordType>APAC_Revenue_Summary__c.KR_Revenue_Summary</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Revenue_Summary__c-MY Revenue Summary</layout>
-        <recordType>APAC_Revenue_Summary__c.MY_Revenue_Summary</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Revenue_Summary__c-SG Revenue Summary</layout>
-        <recordType>APAC_Revenue_Summary__c.SG_Revenue_Summary</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>APAC_Revenue_Summary__c-TW Revenue Summary</layout>
-        <recordType>APAC_Revenue_Summary__c.TW_Revenue_Summary</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-ACE India Account Page Layout</layout>
-        <recordType>Account.INDIA_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-ACE Russia Account Page Layout</layout>
-        <recordType>Account.RUSSIA_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-ACE S Africa Account Page Layout</layout>
-        <recordType>Account.S_Africa_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-AMER Buying Account Layout</layout>
-        <recordType>Account.AMER_Buyer_Account</recordType>
+        <layout>Account-AMER Location Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-AMER LA Brazil Account Layout</layout>
@@ -27736,193 +27380,22 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-AMER Location Account Layout</layout>
-        <recordType>Account.AMER_Archive_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-AMER Location Account Layout</layout>
-        <recordType>Account.AMER_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-AD-Account</layout>
-        <recordType>Account.APAC_AD_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-CN-Main Account</layout>
-        <recordType>Account.APAC_CN_Main_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-CN-New Account</layout>
-        <recordType>Account.APAC_CN_Account_New</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-CN-OEM Account</layout>
-        <recordType>Account.APAC_CN_OEM_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-HK-Account</layout>
-        <recordType>Account.APAC_HK_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-JP-Account</layout>
-        <recordType>Account.APAC_JP_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-KR-Account</layout>
-        <recordType>Account.APAC_KR_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-MY-Account</layout>
-        <recordType>Account.APAC_MY_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-SG-Account</layout>
-        <recordType>Account.APAC_SG_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-APAC-TW-Account</layout>
-        <recordType>Account.APAC_TW_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Buying Account Layout - ANZ</layout>
-        <recordType>Account.ANZ_Buying_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Buying Account Layout - Benelux</layout>
-        <recordType>Account.BENELUX_Buying_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Buying Account Layout - CEE</layout>
-        <recordType>Account.CEE_Buying_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Buying Account Layout - DACH</layout>
-        <recordType>Account.DACH_Buying_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Buying Account Layout - France</layout>
-        <recordType>Account.FRANCE_Buying_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Buying Account Layout - Iberia</layout>
-        <recordType>Account.Iberia_Buying_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Buying Account Layout - Italy</layout>
-        <recordType>Account.Italy_Buying_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Buying Account Layout - Nordic</layout>
-        <recordType>Account.Nordic_Buying_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Buying Account Layout - UK</layout>
-        <recordType>Account.UK_Buying_Account</recordType>
+        <recordType>Account.Account-AMER Location Account Layout</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-GLOBAL Key Account</layout>
         <recordType>Account.GLOBAL_Key_Account</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Account-Location Account Layout - ANZ</layout>
-        <recordType>Account.ANZ_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Location Account Layout - Benelux</layout>
-        <recordType>Account.BENELUX_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Location Account Layout - CEE</layout>
-        <recordType>Account.CEE_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Location Account Layout - DACH</layout>
-        <recordType>Account.DACH_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Location Account Layout - France</layout>
-        <recordType>Account.FRANCE_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Location Account Layout - Iberia</layout>
-        <recordType>Account.Iberia_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Location Account Layout - Italy</layout>
-        <recordType>Account.Italy_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Location Account Layout - Nordic</layout>
-        <recordType>Account.Nordic_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Location Account Layout - UK</layout>
-        <recordType>Account.UK_Location_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-Location Account Master</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Account-MARKET Key Account</layout>
         <recordType>Account.MARKET_Key_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account-NOT Key Account</layout>
-        <recordType>Account.Not_Key_Account</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account-REGIONAL Key Account</layout>
         <recordType>Account.REGIONAL_Key_Account</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>AccountTeamMember-Account Team Member Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-ACE-SA-Account Background Layout</layout>
-        <recordType>Account_Background_Information__c.SA_Account_Background_Info</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-ANZ-Account Background Layout</layout>
-        <recordType>Account_Background_Information__c.ANZ_Account_Background_Info</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-Account Background Information Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-CN-Account Background Layout</layout>
-        <recordType>Account_Background_Information__c.CN_Account_Background_Info</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-HK-Account Background Layout</layout>
-        <recordType>Account_Background_Information__c.HK_Account_Background_Info</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-JP-Account Background Layout</layout>
-        <recordType>Account_Background_Information__c.JP_Account_Background_Info</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-KR-Account Background Layout</layout>
-        <recordType>Account_Background_Information__c.KR_Account_Background_Info</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-MY-Account Background Layout</layout>
-        <recordType>Account_Background_Information__c.MY_Account_Background_Info</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-SG-Account Background Layout</layout>
-        <recordType>Account_Background_Information__c.SG_Account_Background_Info</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Background_Information__c-TW-Account Background Layout</layout>
-        <recordType>Account_Background_Information__c.TW_Account_Background_Info</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Account_Call_History__c-Accoun Call History Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Criteria_Field_Mapping__mdt-Account Criteria Field Mapping Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Account_Plan__c-KAM Account Plan Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Account_Revenue__c-Account Revenue Layout</layout>
@@ -27931,73 +27404,53 @@
         <layout>Account_Segmentation__c-APAC-MY Segmentation Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Account_Segmentation__c-APAC-MY Segmentation Layout</layout>
-        <recordType>Account_Segmentation__c.APAC_MY_Segmentation</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Activate_Trigger__mdt-Activate Trigger Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Agreement_Region_Operating_Unit_Detail__c-Agreement Market and Sub Region Detail Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Answer__c-Answer Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Asset-Asset Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>AuthorizationForm-Authorization Form Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>AuthorizationFormConsent-Authorization Form Consent Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>AuthorizationFormDataUse-Layout Utilizzo dei dati modulo di autorizzazione</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Bank__c-Bank Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Call_Planner_Associated_Promotion__c-Call Planner Associated Promotion Layout</layout>
+        <layout>Buying_Relationship__c -AMER Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .AMER</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Campaign-AMER CA MiSight Campaign Layout</layout>
-        <recordType>Campaign.AMER_CA_MiSight_Campaign_Record_Type</recordType>
+        <layout>Buying_Relationship__c -APAC Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .ANZ</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Campaign-Campaign Layout</layout>
+        <layout>Buying_Relationship__c -EMEA Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .BENELUX</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Campaign-Campaign Layout</layout>
-        <recordType>Campaign.AMER_Campaign</recordType>
+        <layout>Buying_Relationship__c -EMEA Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .CEE</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Campaign-Campaign Layout</layout>
-        <recordType>Campaign.AMER_US_MiSight_Campaign_Record_Type</recordType>
+        <layout>Buying_Relationship__c -EMEA Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .DACH</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Campaign-Campaign Layout</layout>
-        <recordType>Campaign.EMEA_Campaign</recordType>
+        <layout>Buying_Relationship__c -EMEA Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .FRANCE</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>CampaignMember-AMER CA MiSight CM Page Layout</layout>
-        <recordType>CampaignMember.AMER_CA_MiSight_CM_Record_Type</recordType>
+        <layout>Buying_Relationship__c -EMEA Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .IBERIA</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Buying_Relationship__c -EMEA Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .ITALY</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Buying_Relationship__c -EMEA Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .NORDIC</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Buying_Relationship__c -EMEA Buying Relationship Layout</layout>
+        <recordType>Buying_Relationship__c .UK</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Campaign-AMER Campaign</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>CampaignMember-Campaign Member Page Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CampaignMember-Campaign Member Page Layout</layout>
-        <recordType>CampaignMember.AMER_US_MiSight_CM_Record_Type</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-AMER Rebate Administration</layout>
-        <recordType>Case.AMER_Rebate_Administration</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-AMER US MiSight Administrative Case</layout>
-        <recordType>Case.AMER_US_MiSight_Administrative_Case</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case-Case Layout</layout>
@@ -28008,7 +27461,23 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case-Case Layout</layout>
+        <recordType>Case.AMER_Administrative</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-Case Layout</layout>
+        <recordType>Case.AMER_Customer_Satisfaction</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-Case Layout</layout>
         <recordType>Case.AMER_Fit_Set_Transfer</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-Case-AMER Rebate Administration</layout>
+        <recordType>Case.AMER_Rebate_Administration</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-AMER US MiSight Administrative Case</layout>
+        <recordType>Case.AMER_US_MiSight_Administrative_Case</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case-Case Layout</layout>
@@ -28047,36 +27516,8 @@
         <recordType>Case.Customer_Services</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Case-EMEA Account Administration FB</layout>
+        <layout>Case-EU Account Maintenance Request FB</layout>
         <recordType>Case.EMEA_Account_Administration</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-EMEA Customer Satisfaction FB</layout>
-        <recordType>Case.EMEA_Customer_Satisfaction</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-EMEA New Account Request FB</layout>
-        <recordType>Case.EMEA_New_Account_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-EMEA Orders FB</layout>
-        <recordType>Case.EMEA_Orders</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-EMEA Pricing Request Layout</layout>
-        <recordType>Case.EMEA_Pricing_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-EMEA Pricing Request Layout</layout>
-        <recordType>Case.Global_Special_Pricing_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-EMEA Returns %26 Adjustments FB</layout>
-        <recordType>Case.EMEA_Returns_Adjustments</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case-EMEA Territory Change Request FB</layout>
-        <recordType>Case.EMEA_Territory_Change_Request</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case-EU Account Maintenance Request FB</layout>
@@ -28087,20 +27528,44 @@
         <recordType>Case.EU_Customer_Care</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Case-</layout>
+        <recordType>Case.EMEA_Customer_Satisfaction</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-EU Customer Care FB</layout>
+        <recordType>Case.EMEA_Customer_Satisfaction</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Case-EU New Account Request FB</layout>
         <recordType>Case.EU_New_Account_Request</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-EU New Account Request FB</layout>
+        <recordType>Case.EMEA_New_Account_Request</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case-EU Orders FB</layout>
         <recordType>Case.EU_Orders</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Case-EU Orders FB</layout>
+        <recordType>Case.EMEA_Orders</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Case-EU Pricing Request FB</layout>
         <recordType>Case.EU_Pricing_Request</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Case-EU Pricing Request FB</layout>
+        <recordType>Case.EMEA_Pricing Request</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Case-EU Returns %26 Credits FB</layout>
         <recordType>Case.EU_Returns_Credits</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-EU Returns %26 Credits FB</layout>
+        <recordType>Case.EMEA_Returns_Adjustments</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case-EU Segmentation Change Request</layout>
@@ -28109,6 +27574,10 @@
     <layoutAssignments>
         <layout>Case-EU Territory Change Request</layout>
         <recordType>Case.EU_Territory_Change_Request</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Case-</layout>
+        <recordType>Case.EMEA_Territory_Change_Request</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case-Global Billing Adjustment</layout>
@@ -28123,46 +27592,12 @@
         <recordType>Case.Global_Sales_Concession</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-        <recordType>Case.Customer_Services</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-        <recordType>Case.EU_Account_Maintenance_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-        <recordType>Case.EU_Customer_Care</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-        <recordType>Case.EU_New_Account_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-        <recordType>Case.EU_Orders</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-        <recordType>Case.EU_Pricing_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-        <recordType>Case.EU_Returns_Credits</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-        <recordType>Case.EU_Segmentation_Change_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CaseClose-Close Case Layout</layout>
-        <recordType>Case.EU_Territory_Change_Request</recordType>
+        <layout>Case-EMEA Pricing Request Layout</layout>
+        <recordType>Case.Global_Special_Pricing_Request</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case_Form_Line_Item__c-Case Form Line Item Layout</layout>
+        <recordType>Case_Form_Line_Item__c</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case_Form_Line_Item__c-Case Form Line Item Layout</layout>
@@ -28182,110 +27617,37 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case_Forms__c-Case Form Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case_Forms__c-Case Form Layout</layout>
-        <recordType>Case_Forms__c.Global_Order_Entry</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Case_Forms__c-EMEA Special Pricing Request</layout>
-        <recordType>Case_Forms__c.Global_Special_Pricing_Request</recordType>
+        <recordType>Case_Forms__c</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Case_Forms__c-Global Billing Adjustment</layout>
         <recordType>Case_Forms__c.Global_Billing_Adjustment</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Case_Forms__c-Case Form Layout</layout>
+        <recordType>Case_Forms__c.Global_Order_Entry</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Case_Forms__c-Global Sales Concession</layout>
         <recordType>Case_Forms__c.Global_Sales_Concession</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Coaching_Card__c-APAC - Selling Skills Page Layout</layout>
-        <recordType>Coaching_Card__c.APAC_Selling_Skills</recordType>
+        <layout>Case_Forms__c-Global Special Pricing Request</layout>
+        <recordType>Case_Forms__c.Global_Special_Pricing_Request</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Coaching_Card__c-APAC Coaching Card Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Card__c-APAC Coaching Card Layout</layout>
-        <recordType>Coaching_Card__c.APAC_ANZ_Coach</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Card__c-APAC Coaching Card Layout</layout>
-        <recordType>Coaching_Card__c.APAC_Std_Coaching</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC Coaching Plan Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC Coaching Plan Layout</layout>
-        <recordType>Coaching_Plan__c.APAC_Std_CoachingPlan</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC JP Selling Skills Page Layout</layout>
-        <recordType>Coaching_Plan__c.APAC_JP_Selling_Skills</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC-ANZ Selling Skills Page Layout</layout>
-        <recordType>Coaching_Plan__c.APAC_ANZ_Selling_Skills</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC-CN Selling Skills Page Layout</layout>
-        <recordType>Coaching_Plan__c.APAC_CN_Selling_Skills</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC-HK Selling Skills Page Layout</layout>
-        <recordType>Coaching_Plan__c.APAC_HK_Selling_Skills</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC-KR Selling Skills Page Layout</layout>
-        <recordType>Coaching_Plan__c.APAC_KR_Selling_Skills</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC-MY Selling Skills Page Layout</layout>
-        <recordType>Coaching_Plan__c.APAC_MY_Selling_Skills</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC-SG Selling Skills Page Layout</layout>
-        <recordType>Coaching_Plan__c.APAC_Selling_Skills_Except_JP</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching_Plan__c-APAC-TW Selling Skills Page Layout</layout>
-        <recordType>Coaching_Plan__c.APAC_TW_Selling_Skills</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Coaching__c-APAC-ANZ-Coaching</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Cognos_Report__c-Cognos Report Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CollaborationGroup-グループレイアウト</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>CommunityMemberLayout-Community Member Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Competitor_Analysis__c-Competitor Analysis Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-ACE Contact Layout</layout>
-        <recordType>Contact.ACE_Contact</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-ACE-STD-Contacts</layout>
-        <recordType>Contact.ACE_STD_Contacts</recordType>
+        <layout>CaseClose-AMER Close Case Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Contact-AMER Contact</layout>
         <recordType>Contact.AMER_Contact</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Contact-AMER LA Brazil Contact Layout</layout>
-        <recordType>Contact.AMER_LA_Brazil_Contact</recordType>
+        <layout>Contact-AMER LA Contact Layout</layout>
+        <recordType>Contact.AMER_LA_Contact_Layout</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Contact-AMER LA Chile Contact Layout</layout>
+        <layout>Contact-AMER LA Contact Layout</layout>
         <recordType>Contact.AMER_LA_Chile_Contact</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -28297,57 +27659,6 @@
         <recordType>Contact.AMER_LA_Mexico_Contact</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Contact-AMER Medical Contact Layout</layout>
-        <recordType>Contact.AMER_Obsolete_Contact</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-APAC-AD-Contacts</layout>
-        <recordType>Contact.APAC_AD_Contacts</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-APAC-ANZ- Contacts</layout>
-        <recordType>Contact.APAC_ANZ_Contacts</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-APAC-CN-Contacts</layout>
-        <recordType>Contact.APAC_CN_Contacts</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-APAC-HK-Contacts</layout>
-        <recordType>Contact.APAC_HK_Contacts</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-APAC-JP-Contacts</layout>
-        <recordType>Contact.APAC_JP_Contacts</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-APAC-KR-Contacts</layout>
-        <recordType>Contact.APAC_KR_Contacts</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-APAC-MY-Contacts</layout>
-        <recordType>Contact.APAC_MY_Contacts</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-APAC-SG-Contacts</layout>
-        <recordType>Contact.APAC_SG_Contacts</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-APAC-TW-Contacts</layout>
-        <recordType>Contact.APAC_TW_Contacts</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-Contact Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-Contact Layout</layout>
-        <recordType>Contact.AMER_Medical</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact-Contact Layout</layout>
-        <recordType>Contact.AMER_Non_Medical</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Contact-Contact Layout</layout>
         <recordType>Contact.Contact_Record_Type</recordType>
     </layoutAssignments>
@@ -28356,110 +27667,10 @@
         <recordType>Contact.KAM_Contact</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>ContactPointAddress-Contact Point Address Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ContactPointEmail-Contact Point Email Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ContactPointPhone-Contact Point Phone Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ContactPointTypeConsent-Contact Point Type Consent Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact_Relationship__c-Contact Relationship Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact_Relationship__c-Contact Relationship Layout</layout>
-        <recordType>Contact_Relationship__c.Active</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contact_Relationship__c-Contact Relationship Layout</layout>
-        <recordType>Contact_Relationship__c.Inactive</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ContentVersion-AMER Content</layout>
-        <recordType>ContentVersion.AMER_Content</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ContentVersion-ANZ Content</layout>
-        <recordType>ContentVersion.ANZ_Content</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ContentVersion-EU Content Layout</layout>
-        <recordType>ContentVersion.EU_Content</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ContentVersion-General</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ContentVersion-Japan Content</layout>
-        <recordType>ContentVersion.Japan_Content</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contract-APAC-CN-Addendum Layout</layout>
-        <recordType>Contract.APAC_CN_Addendum</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contract-APAC-CN-Contract Layout</layout>
-        <recordType>Contract.APAC_CN_Contract</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contract-APAC-CN-Contract Layout</layout>
-        <recordType>Contract.APAC_Test</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contract-APAC-CN-Contract-Active Layout</layout>
-        <recordType>Contract.APAC_CN_Contract_Active</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contract-Contract Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Contract-Contract Layout</layout>
-        <recordType>Contract.APAC_TW_Contract</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Credit_Task__c-Credit Task Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Credit_Task__c-EMEA Credit Task Layout</layout>
-        <recordType>Credit_Task__c.EMEA_Credit_Task</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Customer_Need_Hierarchy__c-Customer Need Hierarchy Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Customer_Services_Alert__c-Customer Services Alert Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Data_Extract__c-Data Extract Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Deleted_Account__c-Deleted Account Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Distribution_Intelligence__c-APAC-KR Distribution Intelligence Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Distribution_Intelligence__c-APAC-KR Distribution Intelligence Layout</layout>
-        <recordType>Distribution_Intelligence__c.APAC_KR_Distribution_Intelligence</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>DuplicateRecordItem-Duplicate Record Item Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>DuplicateRecordSet-Duplicate Record Set Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>EBS_RecordType__mdt-EBS RecordType Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>EmailMessage-Email Message Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Error_Log__c-Error Log Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Event-Event Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Event-ACE-Event</layout>
@@ -28478,12 +27689,24 @@
         <recordType>Event.AMER_Events</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Event-AMER-LA-BR-Event-Page</layout>
+        <recordType>Event.AMER_LA_BR_Events</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Event-AMER LA BR NF-Event</layout>
         <recordType>Event.AMER_LA_BR_NF_Events</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Event-AMER-LA-CL-Event-Page</layout>
+        <recordType>Event.AMER_LA_CL_Events</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Event-AMER LA CL NF-Event</layout>
         <recordType>Event.AMER_LA_CL_NF_Events</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Event-AMER-LA-MX-Event-Page</layout>
+        <recordType>Event.AMER_LA_MX_Events</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Event-AMER LA MX NF-Event</layout>
@@ -28494,104 +27717,12 @@
         <recordType>Event.AMER_MMS_Training_Event</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Event-AMER-LA-BR-Event-Page</layout>
-        <recordType>Event.AMER_LA_BR_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-AMER-LA-CL-Event-Page</layout>
-        <recordType>Event.AMER_LA_CL_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-AMER-LA-MX-Event-Page</layout>
-        <recordType>Event.AMER_LA_MX_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Event-AMER-NF-Event</layout>
         <recordType>Event.AMER_NF_Events</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Event-APAC-ANZ-Event</layout>
-        <recordType>Event.APAC_ANZ_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-APAC-CN-Event</layout>
-        <recordType>Event.APAC_CN_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-APAC-HK-Event</layout>
-        <recordType>Event.APAC_HK_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-APAC-JP-Event</layout>
-        <recordType>Event.APAC_JP_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-APAC-KR-Event</layout>
-        <recordType>Event.APAC_KR_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-APAC-MY-Event</layout>
-        <recordType>Event.APAC_MY_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-APAC-NF-Event</layout>
-        <recordType>Event.APAC_NF_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-APAC-SG-Event</layout>
-        <recordType>Event.APAC_SG_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-APAC-TW-Event</layout>
-        <recordType>Event.APAC_TW_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-EU Event</layout>
-        <recordType>Event.EU_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-EU Event</layout>
-        <recordType>Event.EU_LCP_Event</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-EU Event</layout>
-        <recordType>Event.Event</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-EU MMS Event</layout>
-        <recordType>Event.EU_MMS_Event</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-EU Non-Sales Event</layout>
-        <recordType>Event.EU_Non_Sales_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-EU-NF-Event</layout>
-        <recordType>Event.EU_NF_Events</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Event-Event Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Event-KAM Event</layout>
         <recordType>Event.KAM_Event</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Expenses__c-Expenses Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Expenses__c-Expenses Layout</layout>
-        <recordType>Expenses__c.Expenses</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>FeedItem-Feed Item Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Fitset_Order__c-Fitset Order Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Fitset_Order__c-Fitset Order Layout</layout>
-        <recordType>Fitset_Order__c.Fitset_Order</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Fitset__c-Fitset Layout</layout>
@@ -28601,21 +27732,17 @@
         <recordType>Fitset__c.Fitset</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Fitter_Relationship__c-Fitter Relationship Layout</layout>
+        <layout>Fitset_Order__c-Fitset Order Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Fitter_Relationship__c-Fitter Relationship Layout</layout>
-        <recordType>Fitter_Relationship__c.Active_Fitter_Relationship</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Fitter_Relationship__c-Inactive Fitter Relationship Layout</layout>
-        <recordType>Fitter_Relationship__c.Inactive_Fitter_Relationship</recordType>
+        <layout>Fitset_Order__c-Fitset Order Layout</layout>
+        <recordType>Fitset_Order__c.Fitset_Order</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Fitting_Habits__c-Fitting Habits Layout %28Fitter%29</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Fitting_Habits__c-Fitting Habits Layout %28Fitter%29</layout>
+        <layout>Fitting_Habits__c-AMER Fitting Habits Layout</layout>
         <recordType>Fitting_Habits__c.AMER_Fitting_Habits</recordType>
     </layoutAssignments>
     <layoutAssignments>
@@ -28623,120 +27750,25 @@
         <recordType>Fitting_Habits__c.Fitting_Habbit</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>FlowInterview-Flow Interview Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Form_Submission__c-Form Submission Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Global-Global Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Idea-Idea Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>IframeWhiteListUrl-Whitelisted Domain for Visualforce and Survey Inline Frames Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Individual-Individual Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>JP_Historical_Event__c-JP - Histrical Event Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Lead-Lead Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Lead-AMER US Lead</layout>
         <recordType>Lead.AMER_US_Lead</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Lead-APAC-JP-Lead-To-Account</layout>
-        <recordType>Lead.APAC_JP_Lead_To_Account</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-APAC-JP-Lead-To-Account-Approved</layout>
-        <recordType>Lead.APAC_JP_Lead_To_Account_Approved</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-        <recordType>Lead.APAC_ANZ_Leads</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-        <recordType>Lead.APAC_CN_Leads</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-        <recordType>Lead.APAC_HK_Leads</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-        <recordType>Lead.APAC_JP_Leads</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-        <recordType>Lead.APAC_JP_Master_Practitioner</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-        <recordType>Lead.APAC_KR_Leads</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-        <recordType>Lead.APAC_MY_Leads</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-        <recordType>Lead.APAC_SG_Leads</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead-Lead Layout</layout>
-        <recordType>Lead.APAC_TW_Leads</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Lead_Approval_History__c-Lead Approval History Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ListEmail-List Email Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Macro-Macro Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Marketing_Catalogue__c-Marketing Catalogue Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Marketing_Catalogue__c-Marketing Catalogue Layout</layout>
-        <recordType>Marketing_Catalogue__c.APAC_CN</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>MiSight_Course__c-MiSight Course Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>MiSight_Survey__c-APAC-ANZ MiSight Survey Page Layout</layout>
-        <recordType>MiSight_Survey__c.APAC_ANZ_MiSight_Survey</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>MiSight_Survey__c-APAC-HK MiSight Survey Page Layout</layout>
-        <recordType>MiSight_Survey__c.APAC_HK_MiSight_Survey</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>MiSight_Survey__c-APAC-MY MiSight Survey Page Layout</layout>
-        <recordType>MiSight_Survey__c.APAC_MY_MiSight_Survey</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>MiSight_Survey__c-APAC-SG MiSight Survey Page Layout</layout>
-        <recordType>MiSight_Survey__c.APAC_SG_MiSight_Survey</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>MiSight_Survey__c-MiSight Survey Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Monthly_Remaining_Call__c-Monthly Remaining Call Layout</layout>
+        <recordType>Monthly_Remaining_Call__c</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>MyDayToricTarget__c-MyDay Toric Target Page Layout</layout>
+        <recordType>MyDayToricTarget__c</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>MyDayToricTarget__c-MyDay Toric Target Page Layout</layout>
@@ -28746,174 +27778,17 @@
         <layout>Non_Field_Event__c-Non Field Event Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>ObjectTerritory2AssignmentRule-Object Territory Assignment Rule Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Objectives__c-KAM Objective Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-AMER Product Opportunity Layout</layout>
-        <recordType>Opportunity.AMER_Product_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-AMER Product Opportunity Layout</layout>
-        <recordType>Opportunity.AMER_Product_Opportunity_NA_Groups</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-APAC Eye Care Prime Page Layout</layout>
-        <recordType>Opportunity.APAC_EyeCare_Prime_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-APAC-AD-Opportunity</layout>
-        <recordType>Opportunity.APAC_AD_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-APAC-ANZ-Opportunity</layout>
-        <recordType>Opportunity.ANZ_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-APAC-CN-Opportunity</layout>
-        <recordType>Opportunity.APAC_CN_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-APAC-JP-Opportunity</layout>
-        <recordType>Opportunity.APAC_JP_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-APAC-KR-Opportunity</layout>
-        <recordType>Opportunity.APAC_KR_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-APAC-MY-Opportunity</layout>
-        <recordType>Opportunity.APAC_MY_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-APAC-SG-Opportunity</layout>
-        <recordType>Opportunity.APAC_SG_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Opportunity-Opportunity Layout</layout>
-        <recordType>Opportunity.AMER_EyeCare_Prime_Opportunity</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>OpportunityContactRole-Opportunity Contact Role Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>OpportunityLineItem-Opportunity Product Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-AD-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-AD-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.AD_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-AD-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.SA_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-ANZ-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.ANZ_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-CN-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.CN_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-HK-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.HK_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-JP-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.JP_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-KR-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.KR_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-MY-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.MY_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-SG-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.SG_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Payment_Credit_Delivery_and_Invoice__c-TW-Payment%2CCredit%2C Delivery and Invoice Layout</layout>
-        <recordType>Payment_Credit_Delivery_and_Invoice__c.TW_Payment_Credit_Delivery_and_Invoice</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>PersonAccount-ACE Fitter Layout</layout>
-        <recordType>PersonAccount.ACE_Fitter</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>PersonAccount-Fitter Layout</layout>
-        <recordType>PersonAccount.Fitter</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>PostalCodeRangeRecord__c-Postal Code Range Record Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Postal_Code_Country__mdt-Postal Code Country Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Postal_Code_Range__c-Postal Code Range Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Pricebook2-Price Book Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>PricebookEntry-Price Book Entry Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ProcessException-Process Exception Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Product2-APAC-ANZ-Product Page Layout</layout>
-        <recordType>Product2.APAC_ANZ_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Product2-APAC-CN-Product Page Layout</layout>
-        <recordType>Product2.APAC_CN_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Product2-APAC-HK-Product Page Layout</layout>
-        <recordType>Product2.APAC_HK_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Product2-APAC-JP-Product Page Layout</layout>
-        <recordType>Product2.APAC_JP_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Product2-APAC-KR-Product Page Layout</layout>
-        <recordType>Product2.APAC_KR_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Product2-APAC-MY-Product Page Layout</layout>
-        <recordType>Product2.APAC_MY_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Product2-APAC-SG-Product Page Layout</layout>
-        <recordType>Product2.APAC_SG_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Product2-APAC-TW-Product Page Layout</layout>
-        <recordType>Product2.APAC_TW_Product</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Product2-Product Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Product_Table__c-Product Table Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Product_Table__c-Product Table Layout</layout>
         <recordType>Product_Table__c.AMER_US_Products</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Product2-Product Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Professional_Services__c-Training Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Professional_Services__c-AMER Professional Services</layout>
@@ -28928,13 +27803,58 @@
         <recordType>Professional_Services__c.EMEA_Training</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Professional_Services__c-Training Layout</layout>
+        <layout>Program__c-AMER Program Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Program_Billing__c-Program Billing Layout</layout>
+        <layout>Program__c-AMER CA Program Layout</layout>
+        <recordType>Program__c.AMER_CA_Program</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Program_Enrollment_Product__c-Program Enrollment Product Layout</layout>
+        <layout>Program__c-AMER Program Layout</layout>
+        <recordType>Program__c.AMER_Program</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-APAC Program Layout</layout>
+        <recordType>Program__c.APAC_CV_Prime_Program</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-APAC Program Layout</layout>
+        <recordType>Program__c.APAC_Program</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-EU 6-6 Program</layout>
+        <recordType>Program__c.EU_6_6_Program</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-Europe e-plan Program</layout>
+        <recordType>Program__c.EU_EyeCare_Prime_ePlan</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-EU EyeCare Prime Local</layout>
+        <recordType>Program__c.EU_EyeCare_Prime_Local</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-EU EyeCare Prime Mobile</layout>
+        <recordType>Program__c.EU_EyeCare_Prime_Mobile</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-EU EyeCare Prime Social</layout>
+        <recordType>Program__c.EU_EyeCare_Prime_Social</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-EU LensRefill Program</layout>
+        <recordType>Program__c.EU_LensRefill_Program</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-EU Program</layout>
+        <recordType>Program__c.EU_Program</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program__c-LATAM Program Layout</layout>
+        <recordType>Program__c.LATAM_Program</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program_Enrollment__c-AMER US ECP Program Enrollment Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Program_Enrollment__c-AMER CA 2020 TARP</layout>
@@ -28965,8 +27885,8 @@
         <recordType>Program_Enrollment__c.AMER_CA_Eye_Care_Prime_Social</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Program_Enrollment__c-AMER CA Marketing Program</layout>
-        <recordType>Program_Enrollment__c.AMER_CA_Marketing_Program</recordType>
+        <layout>Program_Enrollment__c-AMER CA MiSight Program Enrollment</layout>
+        <recordType>Program_Enrollment__c.AMER_CA_MiSight_Program</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Program_Enrollment__c-AMER US Advantage Plus 1Day Growth</layout>
@@ -28977,6 +27897,10 @@
         <recordType>Program_Enrollment__c.AMER_US_Advantage_Plus_Base</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Program_Enrollment__c-AMER US Cooper Direct</layout>
+        <recordType>Program_Enrollment__c.AMER_US_Cooper_Direct</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Program_Enrollment__c-AMER US CVI Advantage Rebate Program</layout>
         <recordType>Program_Enrollment__c.AMER_US_CVI_Advantage_Rebate_IECP_Program</recordType>
     </layoutAssignments>
@@ -28985,19 +27909,8 @@
         <recordType>Program_Enrollment__c.AMER_US_CVI_Advantage_Rebate_Program</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Program_Enrollment__c-AMER US Cooper Direct</layout>
-        <recordType>Program_Enrollment__c.AMER_US_Cooper_Direct</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program_Enrollment__c-AMER US ECP Program Enrollment Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Program_Enrollment__c-AMER US ECP Program Enrollment Layout</layout>
         <recordType>Program_Enrollment__c.AMER_US_ECP_Program</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program_Enrollment__c-AMER US ECP Program Enrollment Layout</layout>
-        <recordType>Program_Enrollment__c.APAC_EyeCare_Lensferry_Program</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Program_Enrollment__c-AMER US Marketing Program</layout>
@@ -29010,6 +27923,10 @@
     <layoutAssignments>
         <layout>Program_Enrollment__c-APAC ECP Program Enrollment Layout</layout>
         <recordType>Program_Enrollment__c.APAC_Eye_Care_Prime_Program</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program_Enrollment__c-AMER US ECP Program Enrollment Layout</layout>
+        <recordType>Program_Enrollment__c.APAC_EyeCare_Lensferry_Program</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Program_Enrollment__c-APAC EyeCare Prime Reach</layout>
@@ -29026,6 +27943,10 @@
     <layoutAssignments>
         <layout>Program_Enrollment__c-EU 6-6</layout>
         <recordType>Program_Enrollment__c.EU_6_6</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program_Enrollment__c-Europe e-plan Program Enrolment</layout>
+        <recordType>Program_Enrollment__c.EU_EyeCare_Prime_ePlan</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Program_Enrollment__c-EU EyeCare Prime Local</layout>
@@ -29048,68 +27969,18 @@
         <recordType>Program_Enrollment__c.EU_Program_Enrollment</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Program_Enrollment__c-Europe e-plan Program Enrolment</layout>
-        <recordType>Program_Enrollment__c.EU_EyeCare_Prime_ePlan</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Program_Enrollment__c-LATAM PE Page Layout</layout>
         <recordType>Program_Enrollment__c.LATAM_PE_Record_Type</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Program_Enrollment_Product__c-Program Enrollment Product Layout</layout>
+        <recordType>Program_Enrollment_Product__c</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Program_Product__c-Program Product Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Program__c-AMER CA Program Layout</layout>
-        <recordType>Program__c.AMER_CA_Program</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-AMER Program Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-AMER Program Layout</layout>
-        <recordType>Program__c.AMER_Program</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-APAC Program Layout</layout>
-        <recordType>Program__c.APAC_Program</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-EU 6-6 Program</layout>
-        <recordType>Program__c.EU_6_6_Program</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-EU EyeCare Prime Local</layout>
-        <recordType>Program__c.EU_EyeCare_Prime_Local</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-EU EyeCare Prime Mobile</layout>
-        <recordType>Program__c.EU_EyeCare_Prime_Mobile</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-EU EyeCare Prime Social</layout>
-        <recordType>Program__c.EU_EyeCare_Prime_Social</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-EU LensRefill Program</layout>
-        <recordType>Program__c.EU_LensRefill_Program</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-EU Program</layout>
-        <recordType>Program__c.EU_Program</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-Europe e-plan Program</layout>
-        <recordType>Program__c.EU_EyeCare_Prime_ePlan</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Program__c-LATAM Program Layout</layout>
-        <recordType>Program__c.LATAM_Program</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>Public_Holiday__c-Public Holiday Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>QuickText-Quick Text Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Receipts__c-Receipt Layout</layout>
@@ -29122,113 +27993,29 @@
     </layoutAssignments>
     <layoutAssignments>
         <layout>Reseller__c-Reseller Layout</layout>
-        <recordType>Reseller__c.AMER_Reseller</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ReturnExchange_Item_Code__c-ReturnExchange Item Code Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Sales_Call_Planner__c-AMER Sales Call Planner Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Sales_Call_Planner__c-AMER Sales Call Planner Layout</layout>
-        <recordType>Sales_Call_Planner__c.AMER_Sales_Call_Planner</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Sales_Order__c-Sales Order Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Sales_Targets__c-Sales Targets Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Scorecard-Scorecard Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ScorecardAssociation-Scorecard Association Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>ScorecardMetric-Scorecard Metric Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Solution-Solution Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Spend_Profile__c-ACE Spend Profile</layout>
-        <recordType>Spend_Profile__c.ACE_Spend_Profile</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Spend_Profile__c-APAC Spend Profile Page Layout</layout>
-        <recordType>Spend_Profile__c.APAC_Spend_Profile</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Spend_Profile__c-EU Spend Profile</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Spend_Profile__c-EU Spend Profile</layout>
-        <recordType>Spend_Profile__c.EU_Spend_Profile</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Spend_Profile__c-EU Spend Profile</layout>
-        <recordType>Spend_Profile__c.Spend_Profile</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Spend_Profile__c-Product Portfolio Matrix</layout>
-        <recordType>Spend_Profile__c.Product_Portfolio_Matrix</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Strategic_Element__c-Strategic Element Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Strategy__c-KAM Strategy Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Target_Forecast__c-KAM Target Forecast</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Target_and_Segmentation__c-Target and Segmentation Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Task-ACE Task Layout</layout>
-        <recordType>Task.ACE_Task</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Task-AMER Fitset Call Layout</layout>
         <recordType>Task.AMER_Fitset_Call</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Task-AMER Telemarketing Page Layout</layout>
-        <recordType>Task.AMER_Telemarketing_Task</recordType>
+        <layout>Task-AMER Task Layout</layout>
+        <recordType>Task.AMER_Task</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Task-Customer Contact</layout>
         <recordType>Task.Customer_Contact</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Task-Customer Master Data Change</layout>
-        <recordType>Task.Customer_Master_Data_Change</recordType>
+        <layout>Task-KAM Task</layout>
+        <recordType>Task.KAM_Task</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Task-LATAM Task Page Layout</layout>
         <recordType>Task.LATAM_Task_Record_Type</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Task-Marketing BDP Request</layout>
-        <recordType>Task.Marketing_BDP_Request</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Task-Task Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Task-Task Layout</layout>
-        <recordType>Task.AMER_Task</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Task-Task Layout</layout>
-        <recordType>Task.General_Task</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Task-Task Layout</layout>
-        <recordType>Task.KAM_Task</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>TerrAlign_Data__c-AMER TerrAlign Data Layout</layout>
@@ -29238,38 +28025,7 @@
         <recordType>TerrAlign_Data__c.AMER_TerrAlign_Data</recordType>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>TerrAlign_Data__c-Europe TerrAlign Data Layout</layout>
-        <recordType>TerrAlign_Data__c.Europe_TerrAlign_Data</recordType>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Territory2-Territory Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Territory2Model-Territory Model Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Territory2Type-Territory Type Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Territory_Fields_To_Account_Fields__mdt-Territory Fields To Account Fields Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Trainer__c-Trainer Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Training_Attendee__c-Training Attendee Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>Training_Location_Accounts__c-Training Location Accounts Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
         <layout>User-User Layout</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>UserAlt-ユーザプロファイルレイアウト</layout>
-    </layoutAssignments>
-    <layoutAssignments>
-        <layout>UserTerritory2Association-User Territory Association Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>Website__c-Website Layout</layout>
