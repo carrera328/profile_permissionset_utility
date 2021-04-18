@@ -27,7 +27,7 @@ if (!csv) {
 //     console.error(constants.messaging.FAIL, 'Error: please enter a valid profile directory with your stupid ass');
 //     return false;
 // } 
-let profiles = [];
+//let profiles = [];
 
 // main
 (async () => {
@@ -40,7 +40,7 @@ let profiles = [];
     helper.convertData('chunk.json', 'xml', 'chunk.xml');
     
     //TODO: manipulate layouts chunk
-    let layoutMetadata = await csvtojsonV2().fromFile('AMER_Analyst_Layout_Assignment_API.csv').then((jsonObj) => jsonObj);
+    let layoutMetadata = await csvtojsonV2().fromFile(csv).then((jsonObj) => jsonObj);
     layoutMetadata = {layoutAssignments: pluck(layoutMetadata)};
     fs.writeFileSync('incomingLayoutMetadata.json', JSON.stringify(layoutMetadata, null, 4));
 
