@@ -3,6 +3,7 @@ const path = require('path');
 const helper = require('./helpers.js');
 const constants = require('./constants.js');
 const csvtojsonV2=require("csvtojson");
+const { pluck } = require('./helpers.js');
 const controller = require('./controller.js');
 // TODO: get profiles from arguments
 const argv = require('minimist')(process.argv.slice(2));
@@ -25,7 +26,26 @@ if (!csv) {
 
 // main
 (async () => {
-    await controller.layoutAssignment(file, csv);
+    // TODO: convert profile to JSON
+    let jsonProfile = await helper.convertData(path.normalize(file), 'json');
+
+    //TODO: extract layouts portion of profile
+    const layoutChunk = {layoutAssignments: jsonProfile.Profile.layoutAssignments};
+    fs.writeFileSync('chunk.json', JSON.stringify(layoutChunk, null, 4));
+    helper.convertData('chunk.json', 'xml', 'chunk.xml');
+    
+    //TODO: manipulate layouts chunk
+    let layoutMetadata = await csvtojsonV2().fromFile(csv).then((jsonObj) => jsonObj);
+    layoutMetadata = {layoutAssignments: pluck(layoutMetadata)};
+    fs.writeFileSync('incomingLayoutMetadata.json', JSON.stringify(layoutMetadata, null, 4));
+
+    //TODO: replace existing chunk with new chunk
+    jsonProfile.Profile.layoutAssignments = layoutMetadata.layoutAssignments;
+    fs.writeFileSync('stage.json', JSON.stringify(jsonProfile, null, 4));
+    const last = file.split('/');
+    
+    await helper.convertData('stage.json', 'xml', `${last[last.length - 1]}`);
+     
 })();
 
 

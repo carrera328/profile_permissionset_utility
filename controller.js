@@ -35,7 +35,7 @@ module.exports = {
         jsonProfile.Profile.layoutAssignments = layoutMetadata.layoutAssignments;
         fs.writeFileSync('stage.json', JSON.stringify(jsonProfile, null, 4));
         const last = file.split('/');
-
+        
         await helper.convertData('stage.json', 'xml', `${last[last.length - 1]}`);
 
     }    
