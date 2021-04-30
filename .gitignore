@@ -1,11 +1,11 @@
-output.xml
-output.json
-*.csv
-node_modules/*
-*.txt
-*.profile
-chunk.json
-*.xml
-incomingLayoutMetadata.json
-stage.json
-!sample.csv
+# output.xml
+# output.json
+# *.csv
+# node_modules/*
+# *.txt
+# *.profile
+# chunk.json
+# *.xml
+# incomingLayoutMetadata.json
+# stage.json
+# !sample.csv
