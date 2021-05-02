@@ -80,6 +80,16 @@ module.exports = {
             if (!metadata[i].recordType._text) delete metadata[i].recordType;
         }
         return metadata;
+    },
+    clean: (listOfFiles) => {
+        listOfFiles.forEach((file) => {
+            fs.unlink(file, (err) => {
+                if (err) {
+                    console.error(messaging.SUCCESS, err);
+                    return;
+                }
+            })
+        })
     }
 
 }

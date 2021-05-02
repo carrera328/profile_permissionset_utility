@@ -29,7 +29,7 @@ module.exports = {
         layoutMetadata = {
             layoutAssignments: pluck(layoutMetadata)
         };
-        fs.writeFileSync('incomingLayoutMetadata.json', JSON.stringify(layoutMetadata, null, 4));
+        fs.writeFileSync('incomingMetadata.json', JSON.stringify(layoutMetadata, null, 4));
 
         //TODO: replace existing chunk with new chunk
         jsonProfile.Profile.layoutAssignments = layoutMetadata.layoutAssignments;
