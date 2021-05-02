@@ -1,4 +1,0 @@
-npm run start -- --csv ./test.csv --dir /Users/sal/Documents/Deployments/salesforce_ant_49.0/sample/retrieveUnpackaged/profiles
-npm run start -- --csv ./test.csv --dir /Users/sal/Documents/CVI/sfdc01-staging/force-app/main/default/profiles
-npm run start -- --csv ./sample.csv --file /Users/sal/Documents/CVI/sfdc01-staging/force-app/main/default/profiles/ACE-RU - LOCAL System Administrator.profile-meta.xml
-npm run start -- --csv ./sample.csv --file /Users/sal/Documents/CVI/prerelight/force-app/main/default/profiles/"ACE-SA Sales Manager.profile-meta.xml"
