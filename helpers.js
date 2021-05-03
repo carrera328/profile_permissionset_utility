@@ -7,7 +7,7 @@ const {
 const {
     messaging
 } = require('./constants');
-const util = require('util');
+
 module.exports = {
     // TODO: Create functionality that determines if the profile directory is in either source or metadata api format
     metadataFormat: "",
@@ -85,11 +85,11 @@ module.exports = {
         listOfFiles.forEach((file) => {
             fs.unlink(file, (err) => {
                 if (err) {
-                    console.error(messaging.SUCCESS, err);
+                    console.error(messaging.FAIL, err);
                     return;
                 }
             })
         })
     }
-
+    
 }
