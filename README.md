@@ -1,5 +1,5 @@
 # Profile-Permissionset-Utility
-Profile Utility is a Node.JS CLI tool that manipulates profiles and permissionsets programatically based on CSV input. Profiles/permissionsets loaded into the tool are converted to JSON, manipulated in JavaScript then converted back to XML. 
+Profile-Permissionset-Utility is a Node.JS CLI tool that manipulates profiles and permissionsets programatically based on CSV input. Profiles/permissionsets loaded into the tool are converted to JSON, manipulated in JavaScript then converted back to XML. 
 
 ## Dependencies
 * Node v15.2.0 or greater
