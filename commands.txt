@@ -1,0 +1,2 @@
+npm run start -- --csv ./sample.csv --file /Users/sal/Documents/CVI/coopervision-sfdc/profiles/"ACE-SA Sales Manager.profile-meta.xml" --layoutAssignment
+npm run start -- --csv ./recordtype-sample.csv --file ./"Teja_Test.permissionset-meta.xml" --recordTypeAssignment

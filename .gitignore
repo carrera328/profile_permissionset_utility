@@ -2,7 +2,6 @@ output.xml
 output.json
 *.csv
 node_modules/*
-*.txt
 *.profile
 chunk.json
 *.xml

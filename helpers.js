@@ -9,41 +9,41 @@ const {
 } = require('./constants');
 
 module.exports = {
-    // TODO: Create functionality that determines if the profile directory is in either source or metadata api format
-    metadataFormat: "",
-    validateProfileDir: (dir) => {
-        let validated = true;
-        let record;
-        try {
-            record = fs.readdirSync(dir)[0];
-        } catch (err) {
-            console.error(messaging.FAIL, err);
-        }
-        fs.readdirSync(dir).forEach(file => {
-            try {
-                // check if current item is a file and if it has profile in its URL
-                if (!fs.statSync(`${dir}/${record}`).isFile() || !path.basename(fs.readdirSync(dir)[0]).split('.')[1].includes('profile')) {
-                    validated = false;
-                }
-            } catch (err) {
-                console.error(messaging.FAIL, err);
-                return;
-            }
-        })
-        console.log(`Am I validated? : ${validated}`);
-        return validated;
-    },
-    profileArray: async (dir) => {
-        const profileArray = [];
-        try {
-            await fs.readdirSync(dir).forEach(file => {
-                profileArray.push(file);
-            });
-        } catch (err) {
-            console.error(err);
-        }
-        return profileArray;
-    },
+    // TODO: BULKIFY APPLICATION
+
+    // validateProfileDir: (dir) => {
+    //     let validated = true;
+    //     let record;
+    //     try {
+    //         record = fs.readdirSync(dir)[0];
+    //     } catch (err) {
+    //         console.error(messaging.FAIL, err);
+    //     }
+    //     fs.readdirSync(dir).forEach(file => {
+    //         try {
+    //             // check if current item is a file and if it has profile in its URL
+    //             if (!fs.statSync(`${dir}/${record}`).isFile() || !path.basename(fs.readdirSync(dir)[0]).split('.')[1].includes('profile')) {
+    //                 validated = false;
+    //             }
+    //         } catch (err) {
+    //             console.error(messaging.FAIL, err);
+    //             return;
+    //         }
+    //     })
+    //     console.log(`Am I validated? : ${validated}`);
+    //     return validated;
+    // },
+    // profileArray: async (dir) => {
+    //     const profileArray = [];
+    //     try {
+    //         await fs.readdirSync(dir).forEach(file => {
+    //             profileArray.push(file);
+    //         });
+    //     } catch (err) {
+    //         console.error(err);
+    //     }
+    //     return profileArray;
+    // },
     convertData: (profile, format, file) => {
         if (profile && format) {
             switch (format) {
@@ -59,7 +59,6 @@ module.exports = {
                 case 'xml':
                     try {
                         let json = fs.readFileSync(profile);
-
                         if (typeof json !== Object) json = JSON.parse(json);
 
                         const xml = js2xml(json, {
