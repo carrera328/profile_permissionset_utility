@@ -12,18 +12,19 @@ Profile Utility is a Node.JS CLI tool that manipulates profiles and permissionse
 ## How to use
 
 * open the root directory of the application in a terminal
-* run a command structured in the following format:
+* run a command structured in the following format:  
+* `npm run start --` required boilerplate node command<br>
+* `--csv ./PATH/TO/VALID/CSV/FILE` path to csv that the tool will take as input.<br>
+* `--file ./PATH/TO/VALID/"PROFILE-PERMISSIONSET"` path to file to edit, file name should be wrapped in quotes, original file will not be edited, only the copy.<br>
+* `--layoutAssignment` command that invokes layoutAssignment functionality CANNOT BE USED IN CONJUNCTION WITH THE recordTypeAssignment COMMAND<br>
+* `--recordTypeAssignment` command that invokes recordTypeAssignment functionality CANNOT BE USED IN CONJUNCTION WITH THE recordTypeAssignment COMMAND<br>
+
+**layout assignment example:**<br>
+`npm run start -- --csv ./layout-assignment-sample.csv --file ./"Sales Admin.profile" --layoutAssignment`<br><br>
+**recordType assignment:**<br>
+`npm run start -- --csv ./recordtype-assignment-sample.csv --file ./"Sample.permissionset" --recordTypeAssignment`
 
 
-`npm run start -- --csv PATH/TO/CSV --file PATH/TO/VALID/"PROFILE NAME WRAPPED IN QUOTES"`
+The --csv,--file and either the --layoutAssignment or (but not both) --recordTypeAssignment flags are required, the tool will not work without these arguments
 
-The --csv and --file flags are required, the tool will not work without these arguments
-
-The Profile Utlity will generate several files including a copy of the original profile with the new modifications:  
-
-* output.json - the original profile/permissionset formatted into JSON
-* chunk.json - only the chunk section of the profile/permissionset in JSON
-* chunk.xml - XML representation of chunk.json
-* incomingLayoutMetadata.json - JSON representation of the CSV metadata that was loaded in the --file command
-* stage.json - original profile JSON with new metadata spliced in
-* FILE_NAME.profile - the new profile in profile/permissionset format
+results are generated in results folder
