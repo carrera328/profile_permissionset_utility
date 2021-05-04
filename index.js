@@ -12,9 +12,6 @@ const csv = argv.csv;
 const layoutAssignment = argv.layoutAssignment;
 const recordTypeAssignment = argv.recordTypeAssignment;
 
-console.log(messaging.WARNING, layoutAssignment);
-console.log(messaging.SUCCESS,recordTypeAssignment);
-
 if (!file) {
     console.error(constants.messaging.FAIL,`please include the path to the profile after the file flag: --file, e.g. --file /users/atriumdev/documents/file.name`);
     return false;
